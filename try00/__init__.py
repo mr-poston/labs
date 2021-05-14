@@ -19,4 +19,16 @@ def check_circles():
     if line.strip() == "circle(35)":
       count += 1
   if count != 5:
-    raise check50.Failure("5 circles with radii of 35 not found" + str(count))
+    raise check50.Failure("5 circles with radii of 35 not found")
+
+@check50.check(compiles)
+def check_forward():
+  """Tracy moves forward 40 after every circle"""
+  datafile = open("tracy.py", "r")
+  count = 0
+  for line in datafile:
+    if line.strip() == "circle(35)":
+      if datafile.next().strip() == "forward(40)":
+        count +=1
+  if count != 5:
+    raise check50.Failure("Tracy did not move forward 40 after each circle")

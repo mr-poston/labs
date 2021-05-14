@@ -31,5 +31,5 @@ def check_forward():
       result += "c"
     if line.strip() == "forward(40)":
       result += "f"
-  if result != "cfcfcfcf":
-    raise check50.Failure("Tracy did not move forward 40 after each circle " + result)
+  if result != "cfcfcfcfcf":
+    raise check50.Failure("Tracy did not move forward 40 after each circle")

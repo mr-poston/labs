@@ -27,8 +27,7 @@ def check_forward():
   datafile = open("tracy.py", "r")
   count = 0
   for line in datafile:
-    if line.strip() == "circle(35)":
-      if line.next().strip() == "forward(40)":
-        count +=1
+    if line.strip() == "forward(40)":
+      count +=1
   if count != 5:
     raise check50.Failure("Tracy did not move forward 40 after each circle")

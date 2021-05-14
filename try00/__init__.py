@@ -13,7 +13,7 @@ def compiles():
 @check50.check(compiles)
 def check_circles():
   """code creates 5 circles with radii of 35"""
-  datafile = file('tracy.py')
+  datafile = open("tracy.py", "r")
   count = 0
   for line in datafile:
     if line == "circle(35)":

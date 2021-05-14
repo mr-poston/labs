@@ -10,7 +10,6 @@ lab50:
     
 submit50:
   files: &files
-    - !exclude "*"
     - !require tracy.py
       
 check50:

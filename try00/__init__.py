@@ -10,7 +10,7 @@ def compiles():
   """no syntax errors in tracy.py"""
   check50.run("python -m py_compile tracy.py").exit(0)
 
-@check50.check(compiles)
+@check50.check()
 def check_circles():
   """code creates 5 circles with radii of 35"""
   datafile = open("tracy.py", "r")
@@ -21,7 +21,7 @@ def check_circles():
   if count != 5:
     raise check50.Failure("5 circles with radii of 35 not found")
 
-@check50.check(compiles)
+@check50.check()
 def check_forward():
   """Tracy moves forward 40 after every circle"""
   datafile = open("tracy.py", "r")

@@ -1,4 +1,4 @@
-from turtle imprort *
+from turtle import *
 shape("turtle")
 # Your code goes below here
 # v    v    v    v    v

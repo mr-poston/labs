@@ -25,9 +25,11 @@ def check_circles():
 def check_forward():
   """Tracy moves forward 40 after every circle"""
   datafile = open("tracy.py", "r")
-  count = 0
+  result = ""
   for line in datafile:
+    if line.strip() == "circle(35)":
+      result += "c"
     if line.strip() == "forward(40)":
-      count +=1
-  if count != 5:
+      result += "f"
+  if result != "cfcfcfcf":
     raise check50.Failure("Tracy did not move forward 40 after each circle")

@@ -19,4 +19,4 @@ def check_circles():
     if line == "circle(35)":
       count += 1
   if count != 5:
-    raise check50.Failure("5 circles with radii of 35 not found")
+    raise check50.Failure("5 circles with radii of 35 not found" + str(count))

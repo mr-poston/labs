@@ -7,3 +7,11 @@ lab50:
 
   files:
     - !include tracy.py
+    
+  submit50:
+    files: &files
+      - !exclude "*"
+      - !require tracy.py
+      
+  check50:
+    files: *files

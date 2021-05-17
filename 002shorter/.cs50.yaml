@@ -13,7 +13,7 @@ lab50:
 submit50:
     files: &files
         - !require tracy.py
-        - !require setup.py
+        - !require __setup.py
 
 check50:
     files: *files

@@ -11,6 +11,12 @@ def check_draw():
     grader = open("grader.py", "w")
     tracy = open("tracy.py", "r")
     for line in tracy:
+        if line.strip() == "from turtle import *":
+            grader.write("#" + line)
+        if line.strip() == 'shape("turtle")':
+            grader.write("#" + line)
+        if line.strip() == "mainloop()":
+            grader.write("#" + line)
         if line.strip() == "circle(35)":
             grader.write(line.replace("circle(35)", "print('circle(35)')"))
         elif line.strip() == "forward(40)":

@@ -30,27 +30,3 @@ def check_draw():
     "circle(35)\nforward(40)\n" + \
     "circle(35)\nforward(40)\n" + \
     "circle(35)\nforward(40)", regex=False).exit(0)
-
-@check50.check(exists)
-def check_circles():
-    """code creates 5 circles with radii of 35"""
-    tracy = open("tracy.py", "r")
-    count = 0
-    for line in tracy:
-        if line.strip() == "circle(35)":
-            count += 1
-    if count != 5:
-        raise check50.Failure("5 circles with radii of 35 not found")
-
-@check50.check(exists)
-def check_forward():
-    """Tracy moves forward 40 after every circle"""
-    tracy = open("tracy.py", "r")
-    result = ""
-    for line in tracy:
-        if line.strip() == "circle(35)":
-            result += "c"
-        if line.strip() == "forward(40)":
-            result += "f"
-    if result != "cfcfcfcfcf":
-        raise check50.Failure("Tracy did not move forward 40 after each circle")

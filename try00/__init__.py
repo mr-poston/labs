@@ -6,6 +6,11 @@ def exists():
     check50.exists("tracy.py")
 
 @check50.check(exists)
+def compiles():
+    """No syntax errors in tracy.py"""
+    check50.run("python3 -m py_compile tracy.py").exit(0)
+    
+@check50.check(compiles)
 def check_draw():
     """drawing matches description"""
     grader = open("grader.py", "w")

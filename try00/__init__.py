@@ -25,7 +25,7 @@ def check_draw():
             grader.write(line)
     grader.close()
     tracy.close()
-    check50.run("python grader.py").stdout("circle(35)\nforward(40)\n" + \
+    check50.run("python3 grader.py").stdout("circle(35)\nforward(40)\n" + \
     "circle(35)\nforward(40)\n" + \
     "circle(35)\nforward(40)\n" + \
     "circle(35)\nforward(40)\n" + \

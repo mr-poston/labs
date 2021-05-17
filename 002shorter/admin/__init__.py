@@ -31,6 +31,8 @@ def check_draw():
         else:
             grader.write(line)
     grader.close()
+    tracy.close()
+    tracy = open("tracy.py", "r")
     left = False
     lines = False
     for line in tracy:

@@ -41,7 +41,7 @@ def check_draw():
     tracy.close()
     if not left:
         raise check50.Failure("Did you move Tracy backwards 200?")
-    if not lines:
+    elif not lines:
         raise check50.Failure("Did you draw both lines and spaces 50 pixels long?")
     check50.run("python3 grader.py").stdout("penup()\nbackward(200)\n" + \
         "pendown()\nforward(50)\npenup()\nforward(50)\n" + \

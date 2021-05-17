@@ -19,10 +19,10 @@ def check_draw():
             grader.write(line)
     grader.close()
     tracy.close()
-    check50.run("python grader.py").stdout("circle(35)\nforward(40)" + \
-    "circle(35)\nforward(40)" + \
-    "circle(35)\nforward(40)" + \
-    "circle(35)\nforward(40)" + \
+    check50.run("python grader.py").stdout("circle(35)\nforward(40)\n" + \
+    "circle(35)\nforward(40)\n" + \
+    "circle(35)\nforward(40)\n" + \
+    "circle(35)\nforward(40)\n" + \
     "circle(35)\nforward(40)", regex=False).exit(0)
 
 @check50.check(exists)

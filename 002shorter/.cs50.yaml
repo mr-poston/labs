@@ -7,7 +7,7 @@ lab50:
 
     files:
         - !exclude "*"
-        - !include setup/setup.py
+        - !include setup/
         - !include tracy.py
 
 submit50:

@@ -24,7 +24,7 @@ def check_draw():
             grader.write(line.replace('penup()', 'print("penup()")'))
         elif line.strip() == 'backward(200)':
             grader.write(line.replace('backward(200)', 'print("backward(200)")'))
-        elif line.strip() == 'forward(200)':
+        elif line.strip() == 'forward(50)':
             grader.write(line.replace('forward(50)', 'print("forward(50)")'))
         elif line.strip() == 'pendown()':
             grader.write(line.replace('pendown()', 'print("pendown()")'))

@@ -1,5 +1,5 @@
 from turtle import *
-from setup import *
+from setup.setup import *
 begin()
 # Your code goes below here
 # |    |    |    |    |    |

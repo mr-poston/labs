@@ -6,6 +6,7 @@ lab50:
         - x
 
     files:
+        - !exclude "*"
         - !include tracy.py
         - !include setup.py
 

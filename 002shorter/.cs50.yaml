@@ -17,3 +17,5 @@ submit50:
 
 check50:
     files: *files
+
+    checks: "./admin/__init__.py"

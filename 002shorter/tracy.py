@@ -1,4 +1,3 @@
-from turtle import *
 from __setup import *
 begin()
 # Your code goes below here

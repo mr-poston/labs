@@ -1,5 +1,5 @@
 from turtle import *
-from setup.zsetup import *
+from setup.__setup import *
 begin()
 # Your code goes below here
 # |    |    |    |    |    |

@@ -13,8 +13,7 @@ def compiles():
 @check50.check(compiles)
 def check_draw():
     """Drawing looks correct"""
-    turtle = ["from turtle import *", 'shape("turtle")', "screensize(400, 400)", \
-        "setup(410, 410)", 'title("Shorter Dashed Line")', "exitonclick()"]
+    turtle = ["from turtle import *", "from __setup import *, "begin()", "end()"]
     grader = open("grader.py", "w")
     tracy = open("tracy.py", "r")
     for line in tracy:

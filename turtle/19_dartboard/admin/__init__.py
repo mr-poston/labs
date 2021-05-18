@@ -19,16 +19,12 @@ def check_draw():
     for line in tracy:
         if line.strip() in turtle:
             grader.write("#" + line)
-        elif "radius" in line and "+" in line:
+        elif "radius" in line and not "circle" in line:
+            grader.write(line)
+        elif line.strip()[:4] == "for ":
             grader.write(line + "\n\tprint(radius)")
-        elif "radius" in line and "circle" not in line:
-            grader.write(line)
-        elif "def " not in line:
-            grader.write("#" + line)
-        elif "for " not in line:
-            grader.write("#" + line)
         else:
-            grader.write(line)
+            grader.write("#" + line)
     grader.close()
     tracy.close()
     check50.run("python3 grader.py").stdout("25\n50\n75\n100", regex=False).exit(0)

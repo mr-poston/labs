@@ -50,7 +50,7 @@ def check_for():
     tracy = open("main.py", "r")
     for line in tracy:
         if "for " in line:
-            grader.write('print("' + line.strip() + '")')
+            grader.write('print("' + line.strip() + '")\n')
     grader.close()
     tracy.close()
     check50.run("python3 grader.py").stdout("for [a-z].*\(4\):", regex=True).exit(0)

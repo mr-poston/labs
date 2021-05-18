@@ -21,7 +21,8 @@ begin()
 end()
 ```
 
-![##Ending World](end_world.png)
+## Ending World
+![](end_world.png)
 
 {% next "How to run your code" %}
 

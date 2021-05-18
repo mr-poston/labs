@@ -1,0 +1,18 @@
+lab50:
+    window:
+        - editor
+        - readme
+        - terminal
+
+    files:
+        - !exclude "*"
+        - !include main.py
+
+submit50:
+    files: &files
+        - !require main.py
+
+check50:
+    files: *files
+
+    checks: "./admin/__init__.py"

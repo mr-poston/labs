@@ -22,7 +22,7 @@ end()
 ```
 
 ## Ending World
-![](end_world.png)
+![](end_world.PNG)
 
 {% next "How to run your code" %}
 

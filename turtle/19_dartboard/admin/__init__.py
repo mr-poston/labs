@@ -22,7 +22,7 @@ def check_draw():
         elif "radius" in line and not "circle" in line:
             grader.write(line)
         elif line.strip()[:4] == "for ":
-            grader.write(line + "\n\tprint(radius)")
+            grader.write(line + "\n    print(radius)")
         else:
             grader.write("#" + line)
     grader.close()

@@ -7,7 +7,8 @@ Make sure:
 
 :turtle: **Hint:** The entire canvas width is 400 pixels - so to figure out how many times Tracy will need to repeat these commands, divide the width by how far Tracy has moved to draw the first dash and space!
 
-![##Ending World](end_world.png)
+##Ending World
+![](end_world.PNG)
 
 {% next "How to run your code" %}
 

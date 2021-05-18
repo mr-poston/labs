@@ -17,7 +17,7 @@ python3 main.py
 
 ## ✔️ To check your code for accuracy, execute the following after the $ prompt:
 ```
-check50 mr-poston/labs/2021/01_introduce
+check50 mr-poston/labs/2021/basic_py/01_introduce
 ```
 Then enter your GitHub username and password when prompted.
 
@@ -25,6 +25,6 @@ Then enter your GitHub username and password when prompted.
 
 ## 📝 To submit your code for grading, execute the following after the $ prompt:
 ```
-submit50 mr-poston/labs/2021/01_introduce
+submit50 mr-poston/labs/2021/basic_py/01_introduce
 ```
 Then enter your GitHub username and password when prompted.

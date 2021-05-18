@@ -13,7 +13,8 @@ Be sure to also:
 * Determine how to draw one circle that is centered on the canvas and then add the other circles using the same function.
 * The circle radii are getting 25 pixels larger each time, so find a way to move Tracy to the correct position before drawing each circle so they are centered!
 
-![##Ending World](end_world.png)
+## Ending World
+![](end_world.png)
 
 {% next "How to run your code" %}
 

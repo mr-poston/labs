@@ -1,4 +1,4 @@
-# Shorter Dashed Lines
+# Dartboard
 ### Write a program that draws a dartboard.
 Make sure your dartboard:
 * Consists of 4 concentric circles

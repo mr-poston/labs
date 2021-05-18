@@ -44,7 +44,7 @@ def check_function():
             grader.write('print("' + line.strip() + '")')
     grader.close()
     tracy.close()
-    check50.run("python3 grader.py").stdout("^def [a-z].*\(\):$", regex=True).exit(0)
+    check50.run("python3 grader.py").stdout("def [a-z].*\(\):", regex=True).exit(0)
 
 @check50.check(compiles)
 def check_for():
@@ -57,4 +57,4 @@ def check_for():
             grader.write('print("' + line.strip() + '")')
     grader.close()
     tracy.close()
-    check50.run("python3 grader.py").stdout("^for [a-z].*\(4\):$", regex=True).exit(0)
+    check50.run("python3 grader.py").stdout("for [a-z].*\(4\):", regex=True).exit(0)

@@ -29,7 +29,7 @@ python3 main.py
 
 ## :heavy_check_mark: To check your code for accuracy, execute the following after the $ prompt:
 ```
-check50 mr-poston/labs/2021/turtle/01_stretched
+check50 mr-poston/labs/2021/turtle/19_dartboard
 ```
 Then enter your GitHub username and password when prompted.
 For security, you’ll see asterisks (`*`) instead of the actual characters in your password.
@@ -38,7 +38,7 @@ For security, you’ll see asterisks (`*`) instead of the actual characters in y
 
 ## :memo: To submit your code for grading, execute the following after the $ prompt:
 ```
-submit50 mr-poston/labs/2021/turtle/01_stretched
+submit50 mr-poston/labs/2021/turtle/19_dartboard
 ```
 Then enter your GitHub username and password when prompted.
 For security, you’ll see asterisks (`*`) instead of the actual characters in your password.

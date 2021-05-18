@@ -9,6 +9,7 @@ lab50:
         - !exclude "*"
         - !include main.py
         - !include __setup.py
+        - !include end_world.png
 
 submit50:
     files: &files

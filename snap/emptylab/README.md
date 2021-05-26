@@ -4,7 +4,7 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
 
 ## Part 1 - Exploring SNAP
 
-1. Open Snap! on your computer.  The URL is http://snap.berkeley.edu/run
+1. Open Snap! on your computer.  The URL is [http://snap.berkeley.edu/run] (http://snap.berkeley.edu/run)
 
 2. In order to save your programs, the first thing you'll need to do is make an account. In the Snap! browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window:
 

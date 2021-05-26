@@ -6,5 +6,4 @@ lab50:
 
     files:
         - !exclude: "*"
-        - !include: images/sign_up_page.png
-        - !include: images/snap_cloud.png
+        - !include: images/

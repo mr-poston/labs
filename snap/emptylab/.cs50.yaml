@@ -5,5 +5,5 @@ lab50:
         - terminal
 
     files:
-        - !exclude: "*"
-        - !include: images/
+        - !exclude "*"
+        - !include images/

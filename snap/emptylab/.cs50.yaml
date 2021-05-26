@@ -1,7 +1,8 @@
 lab50:
     window:
-        - readme
         - editor
+        - readme
+        - terminal
 
     files:
         - !exclude: "*"

@@ -96,8 +96,8 @@ Four is 4
 Print the output below, but only using **one** line of code. Feel free to use online resources.
 
 ```python
-Wow\!
-This is on a new line\!
+Wow!
+This is on a new line!
 ```
 
 ## Bonus 2

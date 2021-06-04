@@ -14,7 +14,7 @@ Practice typing out some statements in the editor part of the IDE, then hit "Run
 
 ## SNAP Flashback - Print Comparison
 
-![Code](lab1.03%20-%20code.png)
+![Code](https://github.com/mr-poston/2nd-semester-introduction-to-computer-science/blob/master/units/1_unit/03_lesson/lab1.03%20-%20code.png?raw=true)
 
 ![Image](lab1.03%20-%20image.png)
 

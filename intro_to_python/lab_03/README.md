@@ -16,7 +16,7 @@ Practice typing out some statements in the editor part of the IDE, then hit "Run
 
 ![Code](https://github.com/mr-poston/2nd-semester-introduction-to-computer-science/blob/master/units/1_unit/03_lesson/lab1.03%20-%20code.png?raw=true)
 
-![Image](lab1.03%20-%20image.png)
+![Image](https://github.com/mr-poston/2nd-semester-introduction-to-computer-science/blob/master/units/1_unit/03_lesson/lab1.03%20-%20image.png?raw=true)
 
 ## Part 2 - Variables Practice
 
@@ -55,7 +55,7 @@ print(dogs + " are cool.")
 
 #### Rewrite the following Snap! Program in Python
 
-  ![snap_blocks_variables](snap_blocks_variables.png)
+  ![snap_blocks_variables](https://github.com/mr-poston/2nd-semester-introduction-to-computer-science/blob/master/units/1_unit/03_lesson/snap_blocks_variables.png?raw=true)
 
 ## Part 3 - Four Fours
 

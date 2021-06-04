@@ -98,7 +98,6 @@ Print the output below, but only using **one** line of code. Feel free to use on
 ```python
 Wow!
 This is on a new line!
-
 ```
 
 ## Bonus 2

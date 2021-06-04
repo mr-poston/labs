@@ -2,7 +2,7 @@
 
 ## Part 1 - Printing Practice
 
-Practice typing out some statements in the editor part of the IDE, then hit "Run" at the top of the screen:
+Practice typing out some statements in the editor part of the IDE, then type `python3 main.py` at the $ prompt in the terminal:
 
 | Expression | Expected Output | Did anything unexpected happen? |
 |------------|-----------------|--------|
@@ -83,7 +83,7 @@ Can you find a different solution?
 
 Here are what the results, but not the source code, will look like. (Note: answers may have trailing zeros if floating point arithmetic is used which is fine, i.e. 1 may be displayed as 1.0)
 
-```python
+```
 Zero is 0
 One is 1
 Two is 2
@@ -95,7 +95,7 @@ Four is 4
 
 Print the output below, but only using **one** line of code. Feel free to use online resources.
 
-```python
+```
 Wow!
 This is on a new line!
 ```

@@ -1,4 +1,4 @@
-# Syllabus
+# Computer Science 1 Syllabus
 
 ### Teacher: Mr. Poston
 

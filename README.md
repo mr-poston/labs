@@ -5,7 +5,7 @@
 ### Classroom Contact Information
 
 Email: [john.poston@risd.org](mailto:john.poston@risd.org)  
-Phone: 
+Phone: 469-593-3084
 
 ## Course Description
 

@@ -182,21 +182,19 @@ _List materials here_
 
 ## Classroom Procedures
 
-**Entering the room:** Enter quietly and politely; remove your hat if you're wearing one; don't interrupt other students; follow the appropriate procedures for each time of day \(e.g., morning, after lunch, after a special class\).
+**Entering the room:** Enter quietly and politely; don't interrupt the teacher or other students.
 
-**Leaving the room:** Tell me where you are going; take the correct hall pass; do not run or play in the hallways or restrooms.
+**Leaving the room:** Tell me where you are going; take the correct hall pass.
 
-**Ending the day:** Clean off your desk; leave out your work notebook; pick up any trash within three feet of your desk; stack your chair; collect your mail; wait quietly to be dismissed.
+> **When using the restroom:** Leave the room quietly; return to class promptly.
 
-**Obtaining help with assignments:** Quietly ask the students at your table for help with directions if you need it; if you are working alone, raise your hand to get help from me; if you are working with a group, ask them for help in understanding how you do the assignment.
+**Ending class:** Clean off your desk; pick up any trash within three feet of your desk; collect your belongings; wait quietly at your seat to be dismissed.
+
+**Obtaining help with assignments:** Quietly ask the students near you for help with directions if you need it; if you are working alone, raise your hand to get help from me; if you are working with a group, ask them for help in understanding how you do the assignment.
 
 **Handing in finished work/homework:** \[Enter your submission procedure for assignments\]
 
-**What to do with unfinished work:** If I ask for work to be turned in, let me know if it isn't finished; if I ask you to keep an unfinished project, put it in your class work notebook.
-
-**When and how to use the school restroom:** If I am not teaching the whole group, stand by the classroom door with your hand raised; if I say "no," wait for a better class time to go; if I nod, leave the room quietly; do not play in the restroom; return to class before two minutes have passed \(promptly\).
-
-**When and how to use the drinking fountain or sink:** When I am not teaching the whole group, you may get a drink; take only a three-second drink; you may bring a water bottle to keep on your desk; if you need to wash your hands, use only a little soap; wipe up any water you spill
+**What to do with unfinished work:** If I ask for work to be turned in, let me know if it isn't finished; if I ask you to keep an unfinished project, put it in your class work notebook.
 
 **Getting into work groups:** Take all the materials you will need; greet each other; complete the task doing your personal best; make sure each person signs the project; thank the others in your group.
 

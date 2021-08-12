@@ -14,11 +14,20 @@ Computing has changed the world in profound ways: it has opened wonderful new wa
 
 ### Prerequisites
 
-Designed for students with algebra readiness skills. No prior programming experience is required.
+This course is designed for students with algebra readiness skills. No prior programming experience is required.
 
-### Required Materials
+### Class Supplies
 
-_List materials here_
+* Pen or pencil
+* Paper
+* A good attitude
+
+### Class Expectations
+
+* Arrive to class on time
+* Be prepared to learn
+* Work hard and learn from your mistakes
+* Follow the posted classroom expectations
 
 ## Curriculum Plan
 
@@ -179,34 +188,4 @@ _List materials here_
 | 14.3 EarSketch Control Flow | Define and identify modulo \(`%`\). Review looping and control structures. Use looping concepts in music making via EarSketch. Use control structures to create music. |
 | 14.4 EarSketch User-Defined Functions | Define and identify abstraction, section, A-B-A form. Create and apply user-defined functions to create songs with complicated form. |
 | 14.5 EarSketch Project | Create a complete song in EarSketch with multiple parts. Utilize EarSketch's features and functions. |
-
-## Classroom Procedures
-
-**Entering the room:** Enter quietly and politely; don't interrupt the teacher or other students.
-
-**Leaving the room:** Tell me where you are going; take the correct hall pass.
-
-* **When using the restroom:** Leave the room quietly; return to class promptly.
-
-**Ending class:** Clean off your desk; pick up any trash within three feet of your desk; collect your belongings; wait quietly at your seat to be dismissed.
-
-**Obtaining help with assignments:** Quietly ask the students near you for help with directions if you need it; if you are working alone, raise your hand to get help from me; if you are working with a group, ask them for help in understanding how you do the assignment.
-
-**Handing in finished work/homework:** \[Enter your submission procedure for assignments\]
-
-**What to do with unfinished work:** If I ask for work to be turned in, let me know if it isn't finished; if I ask you to keep an unfinished project, put it in your class work notebook.
-
-**Getting into work groups:** Take all the materials you will need; greet each other; complete the task doing your personal best; make sure each person signs the project; thank the others in your group.
-
-**Signals for attention:** When I need your attention, I will ring the chimes \(or sound the rain stick, open the music box, etc.\); as soon as you hear the signal, stop what you are doing, look at me, and listen for directions.
-
-**Helping other students:** In a cooperative classroom, it is good to help one another; if someone needs help with directions or reading an assignment, help him or her if you are able; if someone needs help with understanding the problem, tell him or her to ask me for help; never put down another student who asks for help.
-
-
-
-## Expectations
-
-### Do Now
-
-The Do Now is to be completed within the first 3-5 minutes of class in your digital notebook or online \(see instructions for that day\). You should begin it immediately and work on it silently \(unless instructed otherwise\). You will submit your digital notebooks on Google Classroom and they will be graded toward your class participation grade.
 

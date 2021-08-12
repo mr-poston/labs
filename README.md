@@ -186,7 +186,7 @@ _List materials here_
 
 **Leaving the room:** Tell me where you are going; take the correct hall pass.
 
-> **When using the restroom:** Leave the room quietly; return to class promptly.
+* **When using the restroom:** Leave the room quietly; return to class promptly.
 
 **Ending class:** Clean off your desk; pick up any trash within three feet of your desk; collect your belongings; wait quietly at your seat to be dismissed.
 
@@ -208,5 +208,5 @@ _List materials here_
 
 ### Do Now
 
-The Do Now is to be completed within the first 3-5 minutes of class in your notebook or online \(see instructions for that day\). You should begin it immediately and work on it silently \(unless instructed otherwise\). Your notebooks and/or binders will be collected and graded toward your class participation grade.
+The Do Now is to be completed within the first 3-5 minutes of class in your digital notebook or online \(see instructions for that day\). You should begin it immediately and work on it silently \(unless instructed otherwise\). You will submit your digital notebooks on Google Classroom and they will be graded toward your class participation grade.
 

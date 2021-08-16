@@ -1,8 +1,8 @@
 # Computer Science 1 Syllabus
 
-### Teacher: Mr. Poston
+## Classroom Contact Information
 
-### Classroom Contact Information
+#### Teacher: Mr. Poston
 
 Email: [john.poston@risd.org](mailto:john.poston@risd.org)  
 Phone: 469-593-3084
@@ -15,6 +15,8 @@ Computing has changed the world in profound ways: it has opened wonderful new wa
 ### Prerequisites
 
 This course is designed for students with algebra readiness skills. No prior programming experience is required.
+
+## Supplies and Expectations
 
 ### Class Supplies
 
@@ -29,11 +31,18 @@ This course is designed for students with algebra readiness skills. No prior pro
 * Work hard and learn from your mistakes
 * Follow the posted classroom expectations
 
-## Curriculum Plan
+### Grading Categories
 
-### Semester 1
+Minor Grades: 40%  
+Major Grades: 60%
 
-#### Unit 0: Beginnings
+### Late Work Policy
+
+An absent student is allowed one make-up day for each absence, plus one day. The assignment is penalized ten points for each day thereafter. A student who knowingly submits a late assignment will be penalized ten points each day after the due date.
+
+## Curriculum - Semester 1
+
+### Unit 0: Beginnings
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -43,7 +52,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 0.4 Snap Self Portrait | Create a simple "program" in Snap! to describe yourself. |
 | 0.5 Snap Coordinate System | Create a drawing using the Snap! Coordinate System. |
 
-#### Unit 1: Snap! Basics
+### Unit 1: Snap! Basics
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -53,7 +62,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 1.4 Animation | Animate SNAP sprites using costume changes and movement. Trigger action in other sprites using broadcasts. |
 | 1.5 Storytelling Project | Apply basic programming and SNAP skills to create an animated movie, play, nursery rhyme, or other scene. Practice good debugging skills to correct issues as they arise while programming |
 
-#### Unit 2: Loop-de-Loop
+### Unit 2: Loop-de-Loop
 
 | Lesson | Overview |
 | :--- | :--- |
@@ -64,7 +73,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 2.5 Boole in the House | Define and identify Boolean expressions and operators. Evaluate Boolean expressions. Utilize Boolean operators \(and/or/not\) to create compound conditions. |
 | 2.6 Pong Project | Implement a well-written version of Pong. Practice good style and conventions to create readable and maintainable code. |
 
-#### Unit 3: Variables and Customization
+### Unit 3: Variables and Customization
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -74,7 +83,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 3.4 Customization II: Reporters and Predicates | Build custom reporter and predicate blocks in SNAP. |
 | 3.5 Platform Game Project | Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. |
 
-#### Unit 4: Lists
+### Unit 4: Lists
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -85,7 +94,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 4.5 Sequential Search | Explain the sequential search algorithm. Implement several variations of sequential search. |
 | 4.6 Word Guessing Game Project | Use lists to implement a complete version of a word guessing game. Exercise good programming practices to produce code that is not only functional but also elegant and well-written. |
 
-#### Unit 5: Cloning
+### Unit 5: Cloning
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -94,7 +103,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 5.3 Communicating with Clones | Pass information to individual clones. \[Optional\] Describe a race condition that might occur due using global variables and clones. Delete clones when they are no longer needed. |
 | 5.4 Space Invaders | Use cloning to implement a complete version of “Space Invaders.” Exercise good programming practices to produce code that is not only functional but also elegant and well-written. |
 
-#### Unit 6: Final Snap! Project
+### Unit 6: Final Snap! Project
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -104,9 +113,9 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 6.4 Building a Plan | Identify the main components of a functional project specification and explain the purpose of each section. Develop a project idea into a full, detailed specification. |
 | 6.5 Project Implementation | Use the skills developed throughout the course to implement a medium- to large-scale software project. Realistically evaluate progress during software development and identify when cuts are necessary. Prioritize features and scenarios and choose which should be eliminated or modified if/when resources and/or time become limited. |
 
-### Semester 2
+## Curriculum - Semester 2
 
-#### Unit 7: Introduction to Python
+### Unit 7: Introduction to Python
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -117,7 +126,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 7.5 Debugging | Demonstrate your understanding of key concepts covered up to this point. Define and identify debugging, syntax errors. Analyze and respond to error messages. |
 | 7.6 Madlibs Project | Apply basic Python knowledge about inputs/outputs and variables to create a game of Madlibs. Practice good debugging skills. |
 
-#### Unit 8: Data Types and Conditionals
+### Unit 8: Data Types and Conditionals
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -129,7 +138,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 8.6 Game Loop | Define and identify while loop. Use a while loop to simulate game play. |
 | 8.7 Adventure Game Project | Use knowledge of lists, Booleans, conditionals, and while loops to create a text-based adventure game. |
 
-#### Unit 9: Functions
+### Unit 9: Functions
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -139,7 +148,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 9.4 Debugging and Scope | Define and identify scope, aliasing, stack trace. Understand that changing a list in a function updates the list outside of the function. Understand that updating variables in a function does not affect the variable outside of the function. Understand global variables. Draw a simple stack trace. |
 | 9.5 Project | Use project planning skills to complete a longer-term project. Create functions to organize a project. Apply skills learned in units 7-9 to create a functioning program. |
 
-#### Unit 10: Nested Loops and Lists
+### Unit 10: Nested Loops and Lists
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -150,7 +159,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 10.5 Debugging | Read and understand longer programs involving loops. Demonstrate knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. |
 | 10.6 Tic-Tac-Toe Project | Use project planning skills to complete a larger project. Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game. |
 
-#### Unit 11: Dictionaries
+### Unit 11: Dictionaries
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -160,7 +169,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 11.4 Dictionaries Looping | Use loops to traverse through key/value pairs in a dictionary. |
 | 11.5 Guess Who Project | Use dictionaries to create the game Guess Who. |
 
-#### Unit 12: Introduction to Object Oriented Programming
+### Unit 12: Introduction to Object Oriented Programming
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -170,7 +179,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 12.4 Inheritance | Define and identify inheritance, parent class, child class. Create a class that inherits from anther class. Overwrite methods of parent class in a child class. |
 | 12.5 Pokemon Project | Engage in class design before beginning coding. Apply what was learned with respect to classes, methods, and inheritance to create an implementation of Pokemon. |
 
-#### Unit 13: Final Project
+### Unit 13: Final Project
 
 | Lesson | Objectives |
 | :--- | :--- |
@@ -179,7 +188,7 @@ This course is designed for students with algebra readiness skills. No prior pro
 | 13.3 Building a Plan | Identify the main components of a functional project specification and explain the purpose of each section. Develop a project idea into a full, detailed specification. |
 | 13.4 Project Implementation | Use the skills developed throughout the course to implement a medium- to large-scale software project. Realistically evaluate progress during software development and identify when cuts are necessary. Prioritize features and scenarios and choose which should be eliminated or modified if/when resources and/or time become limited. |
 
-#### Unit 14: Music Programming
+### Unit 14: Music Programming
 
 | Lesson | Objectives |
 | :--- | :--- |

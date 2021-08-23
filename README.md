@@ -11,7 +11,7 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
    Click it, select the "sign up" option in the menu, and follow the instructions there. You will need to check your email after creating your account to get your initial password. Your username will be the first part of your school email address. If you need help, ask. ![](.gitbook/assets/sign_up_page.png) 
 
 3. Spend a few minutes looking around, trying things out, and experience what the language can do. Don't worry about understanding everything completely-- we'll go through things in a lot more detail soon. Just try to get a sense of some of the basic capabilities.
-4. Write down three things in your notebook you found that Snap! can do and how to do them. Be as specific as you can!
+4. Write down three things in your notebook you found that Snap! can do and how to do them. Be as specific as you can! \(**See Google Classroom for Notebook link!**\)
 
    | Snap! can do this... | If I do this... |
    | :--- | :--- |

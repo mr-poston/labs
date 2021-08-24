@@ -18,6 +18,8 @@ Using the [template](https://snap.berkeley.edu/snap/snap.html#present:Username=a
 
 Here is an example with 8 coordinates:
 
+![](.gitbook/assets/snap_coordinate_example.png)
+
 ## Grading Scheme/Rubric
 
 | **Lab 0.5 Criteria** | Points |

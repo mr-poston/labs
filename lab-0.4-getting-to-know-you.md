@@ -1,8 +1,6 @@
 # Lab 0.4 - Getting to Know You
 
-
-
-n this lab, you will explore Snap! and create a simple "self-portrait" program to introduce yourself to your teacher and classmates.‌
+In this lab, you will explore Snap! and create a simple "self-portrait" program to introduce yourself to your teacher and classmates.‌
 
 ## Part 1 - Exploring SNAP <a id="part-1-exploring-snap"></a>
 

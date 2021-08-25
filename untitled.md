@@ -22,20 +22,24 @@ These tabs are an important organizational structure in Snap! because they are h
 
 | Block | Category |
 | :--- | :--- |
-|   |  |
-|   |  |
-|   |  |
-|   |  |
-|   |  |
-|   |  |
-|   |  |
-|   |  |
+| ![](.gitbook/assets/play_note.png)  |  |
+| ![](.gitbook/assets/clear.png)  |  |
+| ![](.gitbook/assets/mouse_x.png)  |  |
+| ![](.gitbook/assets/touching.png)  |  |
+| ![](.gitbook/assets/change_y.png)  |  |
+| ![](.gitbook/assets/distance_to.png)  |  |
+| ![](.gitbook/assets/point_in_direction.png)  |  |
+| ![](.gitbook/assets/stop_all_sounds.png)  |  |
 
 Look at the **Motion** tab. Under this tab you will find a bunch of blocks that correspond to motion-like actions. For example, click on the **Move block**, drag it to the scripting area, and drop it anywhere in the scripting area.
+
+![](.gitbook/assets/move.png)
 
 The block that you just dragged and dropped into the scripting area controls something that we call a sprite, which is the arrowhead-looking thing in the middle of the stage \(the white part of the window\).
 
 Back to the scripting area, if you click on the **Move Block** you just put there, the sprite will move 10 steps. You can see this visually depicted by the sprite moving in the stage. You can vary the input of the block, i.e., the number 10, to change the number of steps you want to the sprite to move.
+
+![](.gitbook/assets/move.png)
 
 2. How can you change the block input so that the sprite moves in the opposite direction?
 

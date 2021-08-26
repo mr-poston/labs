@@ -12,9 +12,14 @@ The following is a program in SNAP!:
 
 Can you guess what it might do? Record your guess in your lab notebook.
 
+## Snap! Layout
+
+![](.gitbook/assets/layout.png)
+
 ## Part 1 - Blocks
 
-The area at the left edge of the window is the palette. As you see in the picture, it contains tabs for eight different-color block categories. In this lab, we will focus on the Motion, Sound, Pen, and Sensing tabs. You will learn about the other tabs in the next few labs.
+The area at the left edge of the window is the palette. As you see in the picture, it contains tabs for eight different-color block categories. In this lab, we will focus on the Motion, Sound, Pen, and Sensing tabs. You will learn about the other tabs in the next few labs.   
+![](.gitbook/assets/blocks.png) 
 
 These tabs are an important organizational structure in Snap! because they are home to the various blocks that you will use to tell the computer what to do. The blocks are categorized under each tab based on what kind of thing each block does.
 
@@ -129,11 +134,13 @@ As you can see, this drawing program features more **Control** blocks, in additi
 
 ## Part 8 - Kaleidoscope Activity
 
+**Before you begin this part of the lab, make sure you are logged in to Snap!. It is advised that you save your project \(you could call it Kaleidoscope\) before you begin coding. Then, save by pressing Ctrl+S frequently to avoid losing any work!**
+
 ![](.gitbook/assets/kaleidoscope.gif)
 
 The kaleidoscope consists of 4 sprites. Each sprite will be drawing with a different pen color. Each sprite's movement is based on the movement of the mouse. The first sprite follows the mouse, just like in the example we looked at before. The other 3 sprites move around as the mouse moves, but reflected over the X and Y axes.
 
-**Don't forget to save and submit your work!** _**Upload the shareable link in Google Classroom!!**_
+**Don't forget to save, share, and submit your work!** _**Paste a hyperlink of your shared project to the last page of the Lab Notebook!!**_
 
 Some tips:
 

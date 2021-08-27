@@ -1,7 +1,5 @@
 # Lab 1.1 - Welcome to Snap!
 
-
-
 Snap! is a programming language, which you can use to tell a computer what to do. A program is a particular set of instructions for the computer to follow.
 
 Programs in most languages use only letters \(and punctuation\), but Snap! is different: it's a visual language. Instead of writing a program only using the keyboard, you will drag pictures of blocks and click them together.

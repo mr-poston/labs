@@ -29,6 +29,7 @@ In this lab, you will write your first Snap! programs to draw some simple shapes
 2. Modify your script so that as each shape is being drawn, the sprite is saying the name of shape. The sprite should stop saying the name of the shape when it is finished drawing.
 3. Modify your script so that each different shape is drawn in a _different_ color and with a _different line thickness_. So, for example, if the square is drawn in blue with a line thickness of 3, each other shape must be drawn in a color that is not blue and with a line thickness that is not 3.
 4. Modify your script so that the sprite is hidden when it is not drawing. This is will make sure that the sprite is not obstructing the view of your beautiful artwork!
+5. Paste a hyperlink to your project in your **Lab Notebook**.
 
 ### Rubric
 

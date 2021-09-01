@@ -4,7 +4,7 @@ In this lab, you will explore the functionality of some common blocks and where 
 
 ## Part 1: Locating common blocks
 
-1.1\) Fill in the name of the category to which each block belongs in the chart in your Lab Notebook. The first one is already filled in for example.
+1.1\) Fill in the name of the category to which each block belongs in the chart in your **Lab Notebook**. The first one is already filled in for example.
 
 | Block | Category |
 | :--- | :--- |
@@ -23,7 +23,7 @@ In this lab, you will explore the functionality of some common blocks and where 
 
 ## Part 2: What does it do
 
-2.1\) Describe the function of each block in the chart in the chart in your Lab Notebook. If the block accepts arguments \(contains values that you can change\), be sure to test out a few different ones to make sure you fully understand what those values mean. The first one is already filled in for example.
+2.1\) Describe the function of each block in the chart in the chart in your **Lab Notebook**. If the block accepts arguments \(contains values that you can change\), be sure to test out a few different ones to make sure you fully understand what those values mean. The first one is already filled in for example.
 
 | Block | Function |
 | :--- | :--- |
@@ -40,7 +40,7 @@ In this lab, you will explore the functionality of some common blocks and where 
 | [![rest for beats](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/images/rest_for_beats.png)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/images/rest_for_beats.png) |  |
 | [![point towards](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/images/point_towards.png)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/images/point_towards.png) |  |
 
-2.2\) At this point, you may be noticing some patterns. Use what you've learned from exploring these blocks to answer the questions in the chart in your Lab Notebook about each block category.
+2.2\) At this point, you may be noticing some patterns. Use what you've learned from exploring these blocks to answer the questions in the chart in your **Lab Notebook** about each block category.
 
 * What do the blocks in the **Motion** category do?
 * What do the blocks in the **Looks** category do?
@@ -49,7 +49,7 @@ In this lab, you will explore the functionality of some common blocks and where 
 
 ## Part 3: Put it all together
 
-You are now going to use some of the blocks you've explored to create, save, and submit a Snap! program.
+You are now going to use some of the blocks you've explored to create, save, share, and submit a Snap! program. Paste a hyperlink to your project in your **Lab Notebook**.
 
 1. Create a script that plays 4 different notes with at least 2 rests in between.
 2. Use the repeat block to play your song on loop.

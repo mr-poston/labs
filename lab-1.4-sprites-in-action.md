@@ -4,7 +4,7 @@ In this lab, you will use costumes and movement to create simple Snap! animation
 
 ## Part 1: Run, Spot, Run <a id="part-1-run-spot-run"></a>
 
-1.1\) In a New Snap! project, click on the _**file menu**_ \(![](../.gitbook/assets/image.png)\) , then click **costumes**. Import the costumes `dog2a` and `dog2b`.
+1.1\) In a New Snap! project, click on the _**file menu**_ \(![](.gitbook/assets/image.png)\) , then click **costumes**. Import the costumes `dog2a` and `dog2b`.
 
 1.2\) Write a script to make the sprite change costume each time the space bar is pressed. \(The sprite should switch back and forth between the two costumes.\)
 

@@ -7,4 +7,5 @@
 * [Lab 1.2 - Snap! Scavenger Hunt](lab-1.2-snap-scavenger-hunt.md)
 * [Lab 1.3 - Squares, Triangles, and Stars, Oh My!](lab-1.3-squares-triangles-and-stars-oh-my.md)
 * [Lab 1.4 - Sprites in Action](lab-1.4-sprites-in-action.md)
+* [Project 1: Animated Storytelling](project-1-animated-storytelling.md)
 

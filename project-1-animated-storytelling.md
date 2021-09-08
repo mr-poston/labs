@@ -42,7 +42,7 @@ If you choose a particularly long story, you may not need to animate the whole t
 
 ### Implementation Details
 
-1. Fill out a [Planning Worksheet](https://docs.google.com/document/d/1tRACXS0EkvzIzmPA3YPheNVv3gYCdur0tfd2IYsOWA8/edit?usp=sharing) for the above program. Make sure you consider all aspects of the program carefully.
+1. Fill out a Planning Worksheet for the above program. Make sure you consider all aspects of the program carefully.
 2. As mentioned above, your animation must display the text and animate each line. Action must be performed by sprites and must consist of more than simply changing costumes. You must include the following components in your animation:
 
 * At least two sprites that act in some way to contribute to the depiction of the story

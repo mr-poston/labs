@@ -2,6 +2,14 @@
 
 In this lab, you will use nested loops to draw a yellow brick road using as little scripting as possible.
 
+{% hint style="info" %}
+#### How do I change the background color in Snap!?
+
+1. Click on the Stage in the Sprite Corral.
+2. Go to the Pen category.
+3. Use the "set background color to" block.
+{% endhint %}
+
 ### Part 1: Brick by Brick
 
 1. Write a Snap! script to draw a single 20x10 "brick" in the lower left corner of the stage when the green flag is clicked.

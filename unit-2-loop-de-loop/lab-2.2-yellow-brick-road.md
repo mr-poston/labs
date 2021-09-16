@@ -2,8 +2,6 @@
 
 In this lab, you will use nested loops to draw a yellow brick road using as little scripting as possible.
 
-{% spoiler "How do I change the background color in Snap!? %} 
-
 ### Part 1: Brick by Brick
 
 1. Write a Snap! script to draw a single 20x10 "brick" in the lower left corner of the stage when the green flag is clicked.

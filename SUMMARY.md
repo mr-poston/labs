@@ -14,6 +14,7 @@
   * [Lab 2.1 - Squares and Triangles Redux](unit-2-loop-de-loop/lab-2.1-squares-and-triangles-redux.md)
   * [Lab 2.2 - Yellow Brick Road](unit-2-loop-de-loop/lab-2.2-yellow-brick-road.md)
   * [Lab 2.3 - What Shape is That](unit-2-loop-de-loop/lab-2.3-what-shape-is-that.md)
+  * [Lab 2.4 - Guessing Game](unit-2-loop-de-loop/lab-2.4-guessing-game.md)
 * [Unit 3: Variables and Conditionals](unit-3-variables-and-conditionals.md)
 * [Unit 4: Lists](unit-4-lists.md)
 * [Unit 5: Cloning](unit-5-cloning.md)

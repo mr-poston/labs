@@ -1,4 +1,4 @@
-# Lab 2.5 - All Kinds of Triangles
+# Lab 2.5 - Triangles of All Kinds
 
 In this lab, you will use Boolean operators to determine what sort of triangle a user is describing when entering answers to prompts.
 

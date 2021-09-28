@@ -16,6 +16,7 @@
   * [Lab 2.3 - What Shape is That](unit-2-loop-de-loop/lab-2.3-what-shape-is-that.md)
   * [Lab 2.4 - Guessing Game](unit-2-loop-de-loop/lab-2.4-guessing-game.md)
   * [Lab 2.5 - Triangles of All Kinds](unit-2-loop-de-loop/lab-2.5-all-kinds-of-triangles.md)
+  * [Project 2 - Pong](unit-2-loop-de-loop/project-2-pong.md)
 * [Unit 3: Variables and Conditionals](unit-3-variables-and-conditionals.md)
 * [Unit 4: Lists](unit-4-lists.md)
 * [Unit 5: Cloning](unit-5-cloning.md)

@@ -28,7 +28,7 @@ Paddles are positioned a short distance away from the side they are defending, a
 
 Players can control paddles; the ball starts in the middle, moves in a random direction, and bounces
 
-#### **Checkpoint 2 -** _**Due Tuesday 10/05/2021**_
+#### **Checkpoint 2 -** _**Due Friday 10/01/2021**_
 
 The ball speeds up when it hits a paddle, and resets to the middle when it hits the left or right edge
 

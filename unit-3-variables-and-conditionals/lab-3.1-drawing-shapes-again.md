@@ -8,7 +8,7 @@ In this lab, you will write a script to draw regular polygons. But this time, yo
 2. Write a Snap! script \(or find one you've already written\) to draw an equilateral triangle.
 3. Write a Snap! script \(or find one you've already written\) to draw a regular pentagon.
 4. Write a Snap! script \(or find one you've already written\) to draw a regular octagon.
-5. Look over the four programs from above. Do you notice sections that are very similar? What sections might be able to be abstracted into a separate block?
+5. Look over the four programs from above. Do you notice sections that are very similar? What sections might be able to be generalized?
 
 ### Part 2: If You've Seen One
 

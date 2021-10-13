@@ -4,7 +4,7 @@ In this lab, you will use everything you've learned about loops and conditionals
 
 ### Part 1: Before You Start
 
-Go to the starter project at [https://aka.ms/Intro-lab3-2](https://aka.ms/Intro-lab3-2). Log into Snap! and save your own copy of the project by choosing `Save as` button from the file menu. Be sure to click the `Share` button in the Save dialog box. Highlight the URL in the address bar and copy it.
+Go to the starter project at [https://aka.ms/Intro-lab3-2](https://snap.berkeley.edu/snap/snap.html#present:Username=mr-poston\&ProjectName=Lab%203.2\_Starter). Log into Snap! and save your own copy of the project by choosing `Save as` button from the file menu. Be sure to click the `Share` button in the Save dialog box. Highlight the URL in the address bar and copy it.
 
 ### Part 2: Channeling Newton
 

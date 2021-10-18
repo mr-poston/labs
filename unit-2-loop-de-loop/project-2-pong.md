@@ -24,15 +24,15 @@ Paddles are positioned a short distance away from the side they are defending, a
 
 ### Required checkpoints
 
-#### **Checkpoint 1 -** _**Due Thursday 09/30/2021**_
+#### **Checkpoint 1 - **_**Due Thursday 09/30/2021**_
 
 Players can control paddles; the ball starts in the middle, moves in a random direction, and bounces
 
-#### **Checkpoint 2 -** _**Due Friday 10/01/2021**_
+#### **Checkpoint 2 - **_**Due Friday 10/01/2021**_
 
 The ball speeds up when it hits a paddle, and resets to the middle when it hits the left or right edge
 
-#### **Final due date -** _**Due Thursday 10/07/2021**_
+#### **Final due date - **_**Due Thursday 10/07/2021**_
 
 A point is scored when the ball hits the edge on the opponent's side of the field; the game ends when one player reaches five points; players can start a new game after the game ends
 
@@ -42,23 +42,22 @@ Part of the design process is planning. The Pong planning worksheet is an exampl
 
 ## Grading scheme/rubric
 
-| Functional correctness \(behavior\) |  |
-| :--- | :--- |
-| Players can control paddles with required keys | 2 points |
-| Ball begins play at middle of field at start of game and after each point | 3 points |
-| Ball bounces correctly off upper and lower edges and paddles | 4 points |
-| Ball increases in speed each time it bounces off a paddle | 3 points |
-| A point is scored for the opponent each time the ball touches the left or right edge | 3 points |
-| Game ends when one player reaches five points | 2 points |
-| Winning player is shown when game ends | 1 point |
-| Players can begin a new game | 1 point |
-| **SubTotal** | 19 points |
-| **Technical correctness** \(implementation\) |  |
-| Gameplay is smooth, polished, and intuitive | 3 points |
-| Program shows good creativity and effort | 2 points |
-| Planning worksheet is filled out | 2 points |
-| **Checkpoint** 1 | 4 points |
-| **Checkpoint** 2 | 4 points |
-| **Sub Total** | 15 points |
-| **Total** | 34 points |
-
+| Functional correctness (behavior)                                                    |           |
+| ------------------------------------------------------------------------------------ | --------- |
+| Players can control paddles with required keys                                       | 2 points  |
+| Ball begins play at middle of field at start of game and after each point            | 3 points  |
+| Ball bounces correctly off upper and lower edges and paddles                         | 4 points  |
+| Ball increases in speed each time it bounces off a paddle                            | 3 points  |
+| A point is scored for the opponent each time the ball touches the left or right edge | 3 points  |
+| Game ends when one player reaches five points                                        | 2 points  |
+| Winning player is shown when game ends                                               | 1 point   |
+| Players can begin a new game                                                         | 1 point   |
+| **SubTotal**                                                                         | 19 points |
+| **Technical correctness** (implementation)                                           |           |
+| Gameplay is smooth, polished, and intuitive                                          | 3 points  |
+| Program shows good creativity and effort                                             | 2 points  |
+| Planning worksheet is filled out                                                     | 2 points  |
+| **Checkpoint** 1                                                                     | 4 points  |
+| **Checkpoint** 2                                                                     | 4 points  |
+| **Sub Total**                                                                        | 15 points |
+| **Total**                                                                            | 34 points |

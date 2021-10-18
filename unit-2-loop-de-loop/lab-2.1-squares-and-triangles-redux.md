@@ -4,10 +4,11 @@ In this lab, you will rewrite your Snap! programs from Lab 1.3 to draw shapes us
 
 ### Part 1: Back In Time
 
-1. Open your solution to the original "Squares and Triangles and Stars, Oh My!" activity. \(_Optionally_, you can use [this solution](https://snap.berkeley.edu/snap/snap.html#present:Username=mr-poston&ProjectName=Lab%201.3) to Lab 1.3 as a starting point for this lab.\)
+1. Open your solution to the original "Squares and Triangles and Stars, Oh My!" activity.\
+   (_Optionally_, you can use [this solution](https://snap.berkeley.edu/snap/snap.html#present:Username=mr-poston\&ProjectName=Lab%201.3) to Lab 1.3 as a starting point for this lab.)
 2. Go to the "File" menu and select "Save as..." to give your project a new name.
 
-![](../.gitbook/assets/save_as.png)
+![](../.gitbook/assets/save\_as.png)
 
 ### Part 2: Simplifying your scripting
 
@@ -16,25 +17,24 @@ In this lab, you will rewrite your Snap! programs from Lab 1.3 to draw shapes us
 
 ### Part 3: Adding More Shapes
 
-1. Add script to your program to draw the extra shapes below. Follow all the original guidelines \(different color and line thickness for each shape, say the name while drawing\) and use loops to keep your scripts as short as possible.
+1.  Add script to your program to draw the extra shapes below. Follow all the original guidelines (different color and line thickness for each shape, say the name while drawing) and use loops to keep your scripts as short as possible.
 
-   | _When this key is pressed..._ | _Draw a..._ |
-   | :--- | :--- |
-   | 7 | Decagon \(10-sided polygon\) |
-   | 8 | Circle |
+    | _When this key is pressed..._ | _Draw a..._                |
+    | ----------------------------- | -------------------------- |
+    | 7                             | Decagon (10-sided polygon) |
+    | 8                             | Circle                     |
 
 You may not be able to draw a true circle, but you should get as close as you can.
 
 ### Grading Scheme/Rubric
 
-| **Lab 2.1 Criteria** | Points |
-| :--- | :--- |
-| **Part 2** | \*\*\*\* |
-| 2.1 Square using loop | 1 |
-| 2.2 Other shapes using loop | 1 |
-| **Part 3** | \*\*\*\* |
-| Decagon | 1 |
-| Circle | 1 |
-| Minimum redundancy in all | 1 |
-| **PROJECT TOTAL** | **5 points** |
-
+| **Lab 2.1 Criteria**        | Points       |
+| --------------------------- | ------------ |
+| **Part 2**                  | ****         |
+| 2.1 Square using loop       | 1            |
+| 2.2 Other shapes using loop | 1            |
+| **Part 3**                  | ****         |
+| Decagon                     | 1            |
+| Circle                      | 1            |
+| Minimum redundancy in all   | 1            |
+| **PROJECT TOTAL**           | **5 points** |

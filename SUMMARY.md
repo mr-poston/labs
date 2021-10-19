@@ -21,6 +21,7 @@
   * [Lab 3.1 - Drawing Shapes (Again)](unit-3-variables-and-conditionals/lab-3.1-drawing-shapes-again.md)
   * [Lab 3.2 - What Goes Up](unit-3-variables-and-conditionals/lab-3.2-what-goes-up.md)
   * [Lab 3.3 - Let Me Check My Calendar](unit-3-variables-and-conditionals/lab-3.3-let-me-check-my-calendar.md)
+  * [Lab 3.4 (Option 1) - If My Calculations are Correct](unit-3-variables-and-conditionals/lab-3.4-option-1-if-my-calculations-are-correct.md)
 * [Unit 4: Lists](unit-4-lists.md)
 * [Unit 5: Cloning](unit-5-cloning.md)
 * [Unit 6: Final Snap! Program](unit-6-final-snap-program.md)

@@ -23,6 +23,7 @@
   * [Lab 3.3 - Let Me Check My Calendar](unit-3-variables-and-conditionals/lab-3.3-let-me-check-my-calendar.md)
   * [Lab 3.4 (Option 1) - If My Calculations are Correct](unit-3-variables-and-conditionals/lab-3.4-option-1-if-my-calculations-are-correct.md)
   * [Lab 3.4 (Advanced Option) - The Technicolor Window](unit-3-variables-and-conditionals/lab-3.4-advanced-option-the-technicolor-window.md)
+  * [Project 3 - Platform Game](unit-3-variables-and-conditionals/project-3-platform-game.md)
 * [Unit 4: Lists](unit-4-lists.md)
 * [Unit 5: Cloning](unit-5-cloning.md)
 * [Unit 6: Final Snap! Program](unit-6-final-snap-program.md)
@@ -34,4 +35,3 @@
 * [Unit 12: Introduction to Object Oriented Programming](unit-12-introduction-to-object-oriented-programming.md)
 * [Unit 13: Final Python Project](unit-13-final-python-project.md)
 * [Unit 14: Music Programming](unit-14-music-programming.md)
-* [Other](other.md)

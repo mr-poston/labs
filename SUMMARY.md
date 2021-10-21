@@ -34,3 +34,4 @@
 * [Unit 12: Introduction to Object Oriented Programming](unit-12-introduction-to-object-oriented-programming.md)
 * [Unit 13: Final Python Project](unit-13-final-python-project.md)
 * [Unit 14: Music Programming](unit-14-music-programming.md)
+* [Other](other.md)

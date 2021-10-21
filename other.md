@@ -50,9 +50,11 @@ There should be an on-ground enemy for Hero to contend with. Specific criteria i
 
 You will be required to incorporate good programming habits in your script:
 
-* Using Start and Stop blocks
-* Making sure you initialize state appropriately so that your script is repeatable
-* Add comments to your script so it is easy to understand
+* Use Start and Stop blocks.
+* Make sure you initialize state appropriately so that your script is repeatable.
+* Add comments to your script so it is easy to understand.
+* Keep your scripting area organized and clear of all unnecessary blocks. (If you don't need the block, delete it!)
+* Use custom blocks to break the script down into logical parts.
 
 ## Additional Extensions
 
@@ -61,3 +63,35 @@ Once you complete the requirements above, you can extend your script. Some sugge
 * Include flying enemies for Hero to dodge or duck.
 * Keep score based on how many objects Hero gets by. **Hint:** Use a variable and show it on the screen.
 * Have Hero jump to 'grab' an object that offers Hero extra points or more powerful abilities (such as jumping higher or not being killed when s/he runs into an enemy). The objects must appear at random times and move smoothly as Hero runs.
+
+## Grading Rubric
+
+The detailed list for how your project will be graded is below. Please review your project before submitting to be sure you meet all of the requirements! If you have any questions on whether you've met a requirement, ask Mr. Poston!!
+
+| Requirement                                                                                                                                                                           | Points                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| Hero turns to the right on right arrow key                                                                                                                                            | 5                                                |
+| Hero turns to the left on left arrow key                                                                                                                                              | 5                                                |
+| Hero performs an in-place animated walk if you hold down either arrow key                                                                                                             | 5                                                |
+| Hero jumps based on some input                                                                                                                                                        | 5                                                |
+| There are at least two scenery sprites                                                                                                                                                | 5                                                |
+| Scenery sprites are layered with Hero (i.e., appropriate layering blocks are in your script)                                                                                          | 5                                                |
+| Scenery sprites move based on Hero's movement                                                                                                                                         | 5                                                |
+| Scenery sprites move at different speeds (e.g., far away versus near)                                                                                                                 | 5                                                |
+| Scenery sprites roll-over when they fall off the stage                                                                                                                                | 5                                                |
+| There is at least one on-ground enemy                                                                                                                                                 | 5                                                |
+| Enemy sprite always moves toward Hero                                                                                                                                                 | 5                                                |
+| Enemy sprite re-appears / rolls-over correctly                                                                                                                                        | 5                                                |
+| Enemy sprite is animated when it moves                                                                                                                                                | 5                                                |
+| If Hero does not jump, s/he runs into the enemy and the game ends nicely and properly                                                                                                 | 10                                               |
+| Hero can jump over the enemy                                                                                                                                                          | 5                                                |
+| _Good programming #1:_ script has clear start and stop                                                                                                                                | 5                                                |
+| _Good programming #2:_ script is repeatable and initializes state correctly                                                                                                           | 5                                                |
+| _Good programming #3:_ use of comments in your script                                                                                                                                 | 5                                                |
+| _Good programming #4:_ scripting area is organized and clear of unnecessary blocks                                                                                                    | 5                                                |
+| _Good programming #5:_ Custom blocks used to break down script into logical parts                                                                                                     | 5                                                |
+| **Extra Credit:** Include flying enemies for Hero to dodge or duck                                                                                                                    | 5                                                |
+| **Extra Credit:** Keep score based on how many objects Hero gets by                                                                                                                   | 5                                                |
+| **Extra Credit: **Have Hero jump to 'grab' an object that offers Hero extra points or more powerful abilities. The objects must appear at random times and move smoothly as Hero runs | 10                                               |
+| **Extra Credit:** Create your own extension                                                                                                                                           | 0-10                                             |
+| **Total Points**                                                                                                                                                                      | **105** (135 possible with all the extra credit) |

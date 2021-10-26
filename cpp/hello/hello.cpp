@@ -1,29 +1,27 @@
+// Add the IO Stream library
 #include <iostream>
 
+/* Defining the namespace helps simplify our code
+ * Using the std namespace means you do not have to
+ * preface statements from the std library with std::
+ */
 using namespace std;
 
+/* C++ starts by executing the main program. Each program must
+ * contain a main function that returns an int value.
+ */
 int main()
 {
-    // To read an entire line, you use the getline command.
-    cout << "Please enter your full name: ";
+    // cout stands for console output - our basic output statement
+    cout << "Hello World!";
     
-    // Create a string variable and read in from the user
-    string fullName;
-    getline(cin, fullName);
+    /* Without the namespace declaration, the cout line would look
+     like this:
+     
+     std::cout << "Hello World!";
+    */
     
-    // You can stream multiple items to the output, like concatenating
-    cout << "Hello " << fullName << "!" << endl;
-    // endl tells C++ to move to a new line
-    cout << "It is nice to meet you!" << endl;
-    
-    
-    // To read a single word, you can use the cin command
-    cout << "Please enter your first name: ";
-    string name;
-    cin >> name;
-    
-    cout << "Hello " << name << "!" << endl;
-    cout << "It is nice to meet you!" << endl;
-    
+    // By convention, we return 0 to signify the program has finished
+    // without error.
     return 0;
 }

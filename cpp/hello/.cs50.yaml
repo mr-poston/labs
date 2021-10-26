@@ -5,8 +5,8 @@ lab50:
     - terminal
     
   files:
-    -!include hello.cpp
+    - !include hello.cpp
 
 submit50:
-  files:
-    &files
+  files: &files
+    - !require hello.cpp

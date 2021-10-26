@@ -6,7 +6,3 @@ lab50:
     
   files:
     - !include hello.cpp
-
-submit50:
-  files: &files
-    - !require hello.cpp

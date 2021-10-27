@@ -4,34 +4,26 @@ using namespace std;
 
 int main()
 {
-    int num;
-    string phrase;
-    /* When we use cin >> to stream an input, it only takes the
-     * next token, which is to say, the next part of the line. In
-     * this case, it will take the next number, but leave the remainder
-     * of the line. The only thing remaining may be a carriage return/enter,
-     * but it still remains.
-     * The getline below will read that carriage return/enter in and never
-     * wait for the next prompt. To avoid this, we can use cin.ignore()
-     * to clear out the remainder of the line.
-     */
-     cout << "Please pick a number from 1 to 10: ";
-     cin >> num;
+    // To read an entire line, you use the getline command.
+    cout << "Please enter your full name: ";
 
-     /* Run this first with the cin.ignore() commented out. Then uncomment
-      * and run again.
-      */
+    // Create a string variable and read in from the user
+    string fullName;
+    getline(cin, fullName);
 
-      // cin.ignore();
+    // You can stream multiple items to the output, like concatenating
+    cout << "Hello " << fullName << "!" << endl;
+    // endl tells C++ to move to a new line
+    cout << "It is nice to meet you!" << endl;
 
-      cout << "Now type a phrase: ";
-      /* getline reads up to the next <enter>, so we need to make sure
-       * we clear the enter from the previous prompt using cin.ignore()
-       */
-       getline(cin, phrase);
 
-       cout << "Your number is " << num << endl;
-       cout << "Your phrase is " << phrase << endl;
+    // To read a single word, you can use the cin command
+    cout << "Please enter your first name: ";
+    string name;
+    cin >> name;
 
-       return 0;
+    cout << "Hello " << name << "!" << endl;
+    cout << "It is nice to meet you!" << endl;
+
+    return 0;
 }

@@ -4,4 +4,4 @@ lab50:
     - terminal
     
   files:
-    - !include hello.cpp
+    - !include Hello.cpp

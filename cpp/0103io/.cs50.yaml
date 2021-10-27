@@ -1,0 +1,7 @@
+lab50:
+    window:
+        - editor
+        - terminal
+
+    files:
+        - !include IOExample.cpp

@@ -1,0 +1,8 @@
+lab50:
+    window:
+        - editor
+        - terminal
+
+    files:
+        - !exclude "*"
+        - !include "getline_cin.cpp"

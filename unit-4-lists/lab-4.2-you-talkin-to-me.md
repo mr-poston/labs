@@ -17,8 +17,9 @@ In this lab, you will create a simple sentence generator using lists.
 
 ### Part 1b: Reporting Phrases
 
-1. Write a custom reporter block called “noun phrase” that reports a noun phrase where each word is chosen randomly from the lists you created.
-   1. A noun phrase consists of an article, an adjective, and a noun in that order.
+1.  Write a custom reporter block called “noun phrase” that reports a noun phrase where each word is chosen randomly from the lists you created.
+
+    _A noun phrase consists of an article, an adjective, and a noun in that order._
 2. Write custom reporter blocks like “noun phrase” for each of the phrase types listed below.
 
 |                      |                                    |
@@ -30,9 +31,7 @@ In this lab, you will create a simple sentence generator using lists.
 ### Part 2: Making sentences
 
 1. Modify your script so that when you press the space bar, a random sentence is generated and a sprite says the resulting sentence.
-2.  Modify your script so that a noun phrase can either be the construction from part 1 or a single proper noun (e.g. a person's name). Your script should randomly decide which version of a noun phrase to use.
-
-    _A noun phrase consists of an article, an adjective, and a noun in that order._
+2. Modify your script so that a noun phrase can either be the construction from part 1 or a single proper noun (e.g. a person's name). Your script should randomly decide which version of a noun phrase to use.
 3. Modify your script so that a verb phrase can sometimes leave out the prepositional phrase. Your script should randomly decide to include the prepositional phrase or not.
 
 ### Part 3: Changing our vocabulary
@@ -54,11 +53,11 @@ In this lab, you will create a simple sentence generator using lists.
 
 | **Criteria**                                   | **Points** |
 | ---------------------------------------------- | ---------- |
-| 1.1 6 lists                                    | 0.5        |
-| 2.1 sentence script                            | 0.5        |
-| 2.2 add proper nouns                           | 0.25       |
-| 2.3 Make prepositional phrase for verb phrases | 0.25       |
-| 3.1 Add nouns                                  | 0.25       |
-| 3.2 Add other 5 parts of speech                | 0.25       |
-| 3.3 Remove a part of speech                    | 0.5        |
-| **Total**                                      | **2.0**    |
+| 1.1 6 lists                                    | 2          |
+| 2.1 sentence script                            | 2          |
+| 2.2 add proper nouns                           | 1          |
+| 2.3 Make prepositional phrase for verb phrases | 1          |
+| 3.1 Add nouns                                  | 1          |
+| 3.2 Add other 5 parts of speech                | 1          |
+| 3.3 Remove a part of speech                    | 2          |
+| **Total**                                      | **10**     |

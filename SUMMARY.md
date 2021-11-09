@@ -26,6 +26,7 @@
   * [Project 3 - Platform Game](unit-3-variables-and-conditionals/project-3-platform-game.md)
 * [Unit 4: Lists](unit-4-lists/README.md)
   * [Lab 4.2 - You Talkin' to Me?](unit-4-lists/lab-4.2-you-talkin-to-me.md)
+  * [Lab 4.3 - Guess Who](unit-4-lists/lab-4.3-guess-who.md)
 * [Unit 5: Cloning](unit-5-cloning.md)
 * [Unit 6: Final Snap! Program](unit-6-final-snap-program.md)
 * [Unit 7: Introduction to Python](unit-7-introduction-to-python.md)

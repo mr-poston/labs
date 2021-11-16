@@ -28,6 +28,7 @@
   * [Lab 4.2 - You Talkin' to Me?](unit-4-lists/lab-4.2-you-talkin-to-me.md)
   * [Lab 4.3 - Guess Who](unit-4-lists/lab-4.3-guess-who.md)
   * [Lab 4.4 - Number Cruncher](unit-4-lists/lab-4.4-number-cruncher.md)
+  * [Lab 4.5 - It's Around Here Somewhere](unit-4-lists/lab-4.5-its-around-here-somewhere.md)
 * [Unit 5: Cloning](unit-5-cloning.md)
 * [Unit 6: Final Snap! Program](unit-6-final-snap-program.md)
 * [Unit 7: Introduction to Python](unit-7-introduction-to-python.md)

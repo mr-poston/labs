@@ -118,15 +118,13 @@ Your script must include, at a minimum, the following script elements:
 | Game ends with player defeat if the player runs out of chances                                                   | 2      |
 | Secret word is revealed when game ends                                                                           | 1      |
 | **Subtotal**                                                                                                     | **17** |
-| Technical correctness (implementation)                                                                           |        |
-| script is well-designed visually and has a consistent theme                                                      | 2      |
-| script is well-documented and exhibits good style                                                                | 2      |
+| _Technical correctness (implementation)_                                                                         |        |
+| script is well-designed visually, well-documented and exhibits good style                                        | 2      |
 | script shows good creativity and effort                                                                          | 3      |
 | script includes at least two lists                                                                               | 2      |
 | script uses custom blocks with arguments and reporters appropriately                                             | 2      |
 | script tracks guessed letters using a list                                                                       | 2      |
-| Obtain and respond to playtest feedback from a parent or guardian                                                | 2      |
-| Checkpoint 1 (4/30)                                                                                              | 4      |
-| Checkpoint 2 (4/30)                                                                                              | 4      |
-| **Subtotal**                                                                                                     | 19     |
-| **Total**                                                                                                        | **40** |
+| Checkpoint 1                                                                                                     | 3      |
+| Checkpoint 2                                                                                                     | 2      |
+| **Subtotal**                                                                                                     | 16     |
+| **Total**                                                                                                        | **33** |

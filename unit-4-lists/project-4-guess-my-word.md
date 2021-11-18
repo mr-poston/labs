@@ -71,7 +71,7 @@ Here is a sample of a simple version of the game being played - [https://youtu.b
 
 **Word list/secret word**
 
-You will be provided with a list of words from which the secret word should be chosen for each game. Instructions for importing the word list:
+You will be provided with a list of words from which the secret word should be chosen for each game. wordlist.txt can be found on Google Classroom or below on this document. Instructions for importing the word list:
 
 * To import the list, set a variable "imported words" to be a list.
 * Download and save as a text file on your computer.
@@ -79,7 +79,9 @@ You will be provided with a list of words from which the secret word should be c
 * Right click on the stage image to find the 'import...' command. Select the correct file to import.
 * Set another variable to be a list of words by splitting the imported words by line.
 
-![](<../.gitbook/assets/Imported Words.PNG>)
+![](<../.gitbook/assets/Imported Words 2.PNG>)
+
+{% file src="../.gitbook/assets/wordlist.txt" %}
 
 **Documentation**
 

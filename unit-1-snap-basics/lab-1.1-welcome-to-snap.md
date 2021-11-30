@@ -91,7 +91,7 @@ Click on the gray box to the left of the **x-position block** in the palette, an
 
 This on-stage display is called a _watcher_.
 
-The **x-position block** and the **y-position block** will tell you the position of your sprite on the screen. Move the sprite around and the values reported by these blocks change._ _\
+The **x-position block** and the **y-position block** will tell you the position of your sprite on the screen. Move the sprite around and the values reported by these blocks change. __ \
 __![](../.gitbook/assets/x\_position.png)![](../.gitbook/assets/y\_position.png)&#x20;
 
 ## Part 4 - Experiment with Drawing Commands

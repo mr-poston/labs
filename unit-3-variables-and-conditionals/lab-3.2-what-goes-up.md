@@ -1,4 +1,4 @@
-# Lab 3.2 - What Goes Up...
+# Lab 3.2 - What Goes Up
 
 In this lab, you will use everything you've learned about loops and conditionals to construct a simple model for gravity.
 
@@ -10,7 +10,7 @@ Go to the starter project at [Lab 3.2 Starter](https://snap.berkeley.edu/snap/sn
 
 Write a script for the Dino sprite so that:
 
-2.1) When the `green flag` is clicked, Dino goes to the top of the stage. (_You should use a _`repeat until`_ block to do this.)_
+2.1) When the `green flag` is clicked, Dino goes to the top of the stage. (_You should use a_ `repeat until` _block to do this.)_
 
 2.2) When the `green flag` is clicked, Dino falls to the bottom of the stage in a `forever` block.
 

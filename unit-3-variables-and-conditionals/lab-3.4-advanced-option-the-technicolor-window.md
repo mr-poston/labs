@@ -59,7 +59,7 @@ In this lab, you will write custom **reporter** and **predicate** blocks to perf
 
     ![](<../.gitbook/assets/4 2.png>)
 3. Add code so that the sprite hides itself once it is finished drawing (you will probably also want to make it show itself when the program begins so it is easier to re-run).
-4. _**\*Optional Step\* **_Replace all the constraints in your script (square side length, number of lines drawn, stamp distance from the corner of the square) with custom reporters which simply report the same constants. What is the benefit of doing this? If you want to change any parameters of your artwork like the "window" size later, it is simpler since you only need to edit the custom blocks!
+4. _**\*Optional Step\***_ Replace all the constraints in your script (square side length, number of lines drawn, stamp distance from the corner of the square) with custom reporters which simply report the same constants. What is the benefit of doing this? If you want to change any parameters of your artwork like the "window" size later, it is simpler since you only need to edit the custom blocks!
 5.  Duplicate this sprite a few times (right-click the sprite in the sprite corral and select "duplicate" - the new sprite will have the same scripts) and give the copies different pen colors of your choosing. Re-run the program to observe your art with more color!
 
     ![](<../.gitbook/assets/4 5.png>)

@@ -6,7 +6,7 @@ For this project, you will use Snap! basics to implement an animated version of 
 
 Storytelling is a great way to convey culture. Some examples of storytelling are plays and nursery rhymes. Famous plays like those of William Shakespeare have been performed over centuries. Some have been adapted for modern times like West Side Story. A nursery rhyme is a short poem or song written for children. Though the term is typically applied to British or other English language poems, similar concepts exist in many world cultures. These short stories are generally meant to entertain and/or calm young children. Some are believed to have a hidden moral or meaning related to historical events, but many of these meanings are questionable.
 
-**Digital tools and technologies can help capture stories in our own heritage, especially ones that might otherwise be lost, or difficult to write down. **Many communities have used storytelling as a method to pass down history. And these stories were often shared from generation to generation by word of mouth from a relative or elder.
+**Digital tools and technologies can help capture stories in our own heritage, especially ones that might otherwise be lost, or difficult to write down.** Many communities have used storytelling as a method to pass down history. And these stories were often shared from generation to generation by word of mouth from a relative or elder.
 
 For this project, you may want to tell a simple, animated story or portray an animation that depicts some aspect of your own heritage, especially stories that have been passed down by word of mouth. Some ideas:
 
@@ -36,7 +36,7 @@ You will create a short animation in Snap! depicting a story of your choice.
 * When the story ends, there should be a way for the user to replay the entire animation from the beginning.
 * You are free to be as creative as you like with your choice of sprites and actions.
 
-You may choose from the sprites provided by Snap! or create your own. (**You will **_**not **_**be graded on your artistic skills.**) You may interpret the story literally or be clever with your depiction (but don't go too far). However, all sprites, behaviors, words, and animations must be school appropriate.
+You may choose from the sprites provided by Snap! or create your own. (**You will **_**not**_** be graded on your artistic skills.**) You may interpret the story literally or be clever with your depiction (but don't go too far). However, all sprites, behaviors, words, and animations must be school appropriate.
 
 If you choose a particularly long story, you may not need to animate the whole thing. Please check with Mr. Poston if you think your idea is long enough for this.
 

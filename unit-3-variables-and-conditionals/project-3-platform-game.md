@@ -1,4 +1,4 @@
-# Other
+# Project 3 - Platform Game
 
 For this project, you will implement a side-scrolling platform game (similar to Super Mario Bros.)
 
@@ -8,7 +8,7 @@ Platform games are among the most widely recognized types of video games. Compos
 
 ### Example Side-Scrolling Platform Game
 
-N.B. The example in the video below was NOT created using Snap!, but you _could _create something similar!
+N.B. The example in the video below was NOT created using Snap!, but you _could_ create something similar!
 
 {% embed url="https://youtu.be/xQb3w182s7I" %}
 Example of a side-scrolling platform game
@@ -92,6 +92,6 @@ The detailed list for how your project will be graded is below. Please review yo
 | _Good programming #5:_ Custom blocks used to break down script into logical parts                                                                                                     | 5                                                |
 | **Extra Credit:** Include flying enemies for Hero to dodge or duck                                                                                                                    | 5                                                |
 | **Extra Credit:** Keep score based on how many objects Hero gets by                                                                                                                   | 5                                                |
-| **Extra Credit: **Have Hero jump to 'grab' an object that offers Hero extra points or more powerful abilities. The objects must appear at random times and move smoothly as Hero runs | 10                                               |
+| **Extra Credit:** Have Hero jump to 'grab' an object that offers Hero extra points or more powerful abilities. The objects must appear at random times and move smoothly as Hero runs | 10                                               |
 | **Extra Credit:** Create your own extension                                                                                                                                           | 0-10                                             |
 | **Total Points**                                                                                                                                                                      | **105** (135 possible with all the extra credit) |

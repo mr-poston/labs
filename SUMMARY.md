@@ -31,6 +31,7 @@
   * [Lab 4.5 - It's Around Here Somewhere](unit-4-lists/lab-4.5-its-around-here-somewhere.md)
   * [Project 4 - Guess My Word](unit-4-lists/project-4-guess-my-word.md)
 * [Unit 5: Cloning](unit-5-cloning/README.md)
+  * [Cloning Sprites](unit-5-cloning/cloning-sprites.md)
   * [(Optional) Lab 5.2 - Lots of Balls](unit-5-cloning/optional-lab-5.2-lots-of-balls.md)
 * [Unit 6: Final Snap! Program](unit-6-final-snap-program.md)
 * [Unit 7: Introduction to Python](unit-7-introduction-to-python.md)

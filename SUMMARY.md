@@ -34,6 +34,7 @@
   * [Cloning Sprites](unit-5-cloning/cloning-sprites.md)
   * [(Optional) Lab 5.2 - Lots of Balls](unit-5-cloning/optional-lab-5.2-lots-of-balls.md)
   * [Global Variables vs. Sprite Variables](unit-5-cloning/global-variables-vs.-sprite-variables.md)
+  * [(Optional) Lab 5.3 - Fewer Balls](unit-5-cloning/optional-lab-5.3-fewer-balls.md)
 * [Unit 6: Final Snap! Program](unit-6-final-snap-program.md)
 * [Unit 7: Introduction to Python](unit-7-introduction-to-python.md)
 * [Unit 8: Data Types and Conditionals](unit-8-data-types-and-conditionals.md)

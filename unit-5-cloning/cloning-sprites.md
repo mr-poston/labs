@@ -1,8 +1,12 @@
 # Cloning Sprites
 
+### Example Game
 
+{% embed url="https://www.youtube.com/embed/kR2fjwr-TzA" %}
+Demonstration of Space Invaders
+{% endembed %}
 
-**Discussion**
+### **Discussion**
 
 Think about how we create all the “invaders”?
 
@@ -13,7 +17,7 @@ What might go wrong or be bad about this approach?
 * If anything in an invader changes, it will need to be changed many times.
 * Lots of sprites clogging up the program that are all basically doing the same thing.
 
-**Introduction to Cloning**
+### **Introduction to Cloning**
 
 Cloning is the automated way of doing the manual copying
 
@@ -27,7 +31,7 @@ It is important to use the **When I start as a clone** block to ensure clones do
 
 [![When I start as a clone Block](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/images/when\_i\_start\_as\_a\_clone.png)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/images/when\_i\_start\_as\_a\_clone.png)
 
-#### Activity
+### Activity
 
 Complete the Lots of balls lab (next page).
 

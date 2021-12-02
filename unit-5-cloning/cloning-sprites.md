@@ -1,5 +1,7 @@
 # Cloning Sprites
 
+{% embed url="https://youtu.be/wSIrCUffS78" %}
+
 ### Example Game
 
 {% embed url="https://www.youtube.com/embed/kR2fjwr-TzA" %}

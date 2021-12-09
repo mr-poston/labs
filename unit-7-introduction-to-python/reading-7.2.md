@@ -1,4 +1,4 @@
-# Reading 7.1
+# Reading 7.2
 
 ## Values and Types
 
@@ -16,7 +16,7 @@ If you are not sure what type a value has, the interpreter can tell you.
 <type 'int'="">
 ```
 
-Not surprisingly, strings belong to the type `str` and integers belong to the type int. Less obviously, numbers with a decimal point belong to a type called float, because these numbers are represented in a format called floating-point.
+Not surprisingly, strings belong to the type `str` and integers belong to the type `int`. Less obviously, numbers with a decimal point belong to a type called `float`, because these numbers are represented in a format called floating-point.
 
 ```python
 >>> type(3.2)
@@ -32,20 +32,24 @@ What about values like '17' and '3.2'? They look like numbers, but they are in q
 <type 'str'="">
 ```
 
-They’re strings. When you type a large integer, you might be tempted to use commas between groups of three digits, as in 1,000,000. This is not a legal integer in Python, but it is legal:
+They’re strings.
+
+When you type a large integer, you might be tempted to use commas between groups of three digits, as in 1,000,000. This is not a legal integer in Python, but it is legal:
 
 ```python
 >>> 1,000,000
 (1, 0, 0)
 ```
 
-Well, that’s not what we expected at all! Python interprets 1,000,000 as a comma-separated sequence of integers. This is the first example we have seen of a semantic error: the code runs without producing an error message, but it doesn’t do the “right” thing.
+Well, that’s not what we expected at all!
+
+Python interprets 1,000,000 as a comma-separated sequence of integers. This is the first example we have seen of a semantic error: the code runs without producing an error message, but it doesn’t do the “right” thing.
 
 ## Operators and Operands
 
 Operators are special symbols that represent computations like addition and multiplication. The values the operator is applied to are called operands.
 
-The operators +, -, _, /, // and_ \* perform addition, subtraction, multiplication, true division, floor division, and exponentiation, as in the following examples:
+The operators `+`, `-`, `*`_, `/`, `//`,_ and `**` perform addition, subtraction, multiplication, true division, floor division, and exponentiation, as in the following examples:
 
 ```python
 20+32   hour-1   hour*60+minute   minute/60   minute//60   5**2   (5+9)*(15-7)

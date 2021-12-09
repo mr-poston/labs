@@ -1,35 +1,65 @@
-# Reading 7.3
+# Reading 7.2
 
-## Debugging
+## Variables
 
-Programming is error-prone. For whimsical reasons, programming errors are called bugs and the process of tracking them down is called debugging.
+One of the most powerful features of a programming language is the ability to manipulate variables. A variable is a name that refers to a value.
 
-Three kinds of errors can occur in a program: syntax errors, runtime errors, and semantic errors. It is useful to distinguish between them in order to track them down more quickly.
+An assignment statement creates new variables and gives them values:
 
-### **Syntax errors**
+```python
+>>> message = 'And now for something completely different'
+>>> n = 17
+>>> pi = 3.1415926535897932
+```
 
-Python can only execute a program if the syntax is correct; otherwise, the interpreter displays an error message. Syntax refers to the structure of a program and the rules about that structure. For example, parentheses have to come in matching pairs, so `(1 + 2)` is legal, but `8)` is a syntax error.
+This example makes three assignments. The first assigns a string to a new variable named message; the second gives the integer 17 to n; the third assigns the (approximate) value of π to pi. A common way to represent variables on paper is to write the name with an arrow pointing to the variable’s value. This kind of figure is called a state diagram because it shows what state each of the variables is in (think of it as the variable’s state of mind). Figure 2.1 shows the result of the previous example.
 
-In English, readers can tolerate most syntax errors, which is why we can read the poetry of e. e. cummings without spewing error messages. Python is not so forgiving. If there is a single syntax error anywhere in your program, Python will display an error message and quit, and you will not be able to run your program. During the first few weeks of your programming career, you will probably spend a lot of time tracking down syntax errors. As you gain experience, you will make fewer errors and find them faster.
+[![](http://www.greenteapress.com/thinkpython/html/thinkpython003.png)](http://www.greenteapress.com/thinkpython/html/thinkpython003.png)State diagram
 
-### **Runtime errors**
+The type of a variable is the type of the value it refers to.
 
-The second type of error is a runtime error, so called because the error does not appear until after the program has started running. These errors are also called exceptions because they usually indicate that something exceptional (and bad) has happened.
+```python
+>>> type(message)
+<type 'str'="">
+>>> type(n)
+<type 'int'="">
+>>> type(pi)
+<type 'float'="">
+```
 
-Runtime errors are rare in the simple programs you will see in the first few chapters, so it might be a while before you encounter one.
+## Variable names and keywords
 
-### **Semantic errors**
+Programmers generally choose names for their variables that are meaningful—they document what the variable is used for.
 
-The third type of error is the semantic error. If there is a semantic error in your program, it will run successfully in the sense that the computer will not generate any error messages, but it will not do the right thing. It will do something else. Specifically, it will do what you told it to do.
+Variable names can be arbitrarily long. They can contain both letters and numbers, but they have to begin with a letter. It is legal to use uppercase letters, but it is a good idea to begin variable names with a lowercase letter (you’ll see why later).
 
-The problem is that the program you wrote is not the program you wanted to write. The meaning of the program (its semantics) is wrong. Identifying semantic errors can be tricky because it requires you to work backward by looking at the output of the program and trying to figure out what it is doing.
+The underscore character, `_`, can appear in a name. It is often used in names with multiple words, such as `my_name` or `airspeed_of_unladen_swallow`.
 
-## **Experimental debugging**
+If you give a variable an illegal name, you get a syntax error:
 
-One of the most important skills you will acquire is debugging. Although it can be frustrating, debugging is one of the most intellectually rich, challenging, and interesting parts of programming. In some ways, debugging is like detective work. You are confronted with clues, and you have to infer the processes and events that led to the results you see.
+```python
+>>> 76trombones = 'big parade'
+SyntaxError: invalid syntax
+>>> more@ = 1000000
+SyntaxError: invalid syntax
+>>> class = 'Advanced Theoretical Zymurgy'
+SyntaxError: invalid syntax
+```
 
-Debugging is also like an experimental science. Once you have an idea about what is going wrong, you modify your program and try again. If your hypothesis was correct, then you can predict the result of the modification, and you take a step closer to a working program. If your hypothesis was wrong, you have to come up with a new one. As Sherlock Holmes pointed out, “When you have eliminated the impossible, whatever remains, however improbable, must be the truth.” (A. Conan Doyle, The Sign of Four)
+`76trombones` is illegal because it does not begin with a letter. more@ is illegal because it contains an illegal character, `@`. But what’s wrong with class?
 
-For some people, programming and debugging are the same thing. That is, programming is the process of gradually debugging a program until it does what you want. The idea is that you should start with a program that does something and make small modifications, debugging them as you go, so that you always have a working program.
+It turns out that class is one of Python’s keywords. The interpreter uses keywords to recognize the structure of the program, and they cannot be used as variable names.
 
-For example, Linux is an operating system that contains thousands of lines of code, but it started out as a simple program Linus Torvalds used to explore the Intel 80386 chip. According to Larry Greenfield, “One of Linus’s earlier projects was a program that would switch between printing AAAA and BBBB. This later evolved to Linux.” (The Linux Users’ Guide Beta Version 1).
+Python 2 has 31 keywords:
+
+```python
+and       del       from      not       while
+as        elif      global    or        with
+assert    else      if        pass      yield
+break     except    import    print     nonlocal
+class     exec      in        raise
+continue  finally   is        return
+def       for       lambda    try
+```
+
+In Python 3, exec is no longer a keyword, but nonlocal is. You might want to keep this list handy. If the interpreter complains about one of your variable names and you don’t know why, see if it is on this list.pyt

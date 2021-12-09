@@ -1,65 +1,74 @@
-# Reading 7.2
+# Reading 7.1
 
-## Variables
+## Values and Types
 
-One of the most powerful features of a programming language is the ability to manipulate variables. A variable is a name that refers to a value.
+A value is one of the basic things a program works with, like a letter or a number. The values we have seen so far are 1, 2, and 'Hello, World!'.
 
-An assignment statement creates new variables and gives them values:
+These values belong to different types: 2 is an integer, and 'Hello, World!' is a string, so-called because it contains a “string” of letters. You (and the interpreter) can identify strings because they are enclosed in quotation marks.
+
+If you are not sure what type a value has, the interpreter can tell you.
 
 ```python
->>> message = 'And now for something completely different'
->>> n = 17
->>> pi = 3.1415926535897932
+>>> type('Hello, World!')
+<type 'str'="">
+
+>>> type(17)
+<type 'int'="">
 ```
 
-This example makes three assignments. The first assigns a string to a new variable named message; the second gives the integer 17 to n; the third assigns the (approximate) value of π to pi. A common way to represent variables on paper is to write the name with an arrow pointing to the variable’s value. This kind of figure is called a state diagram because it shows what state each of the variables is in (think of it as the variable’s state of mind). Figure 2.1 shows the result of the previous example.
-
-[![](http://www.greenteapress.com/thinkpython/html/thinkpython003.png)](http://www.greenteapress.com/thinkpython/html/thinkpython003.png)State diagram
-
-The type of a variable is the type of the value it refers to.
+Not surprisingly, strings belong to the type `str` and integers belong to the type int. Less obviously, numbers with a decimal point belong to a type called float, because these numbers are represented in a format called floating-point.
 
 ```python
->>> type(message)
-<type 'str'="">
->>> type(n)
-<type 'int'="">
->>> type(pi)
+>>> type(3.2)
 <type 'float'="">
 ```
 
-## Variable names and keywords
-
-Programmers generally choose names for their variables that are meaningful—they document what the variable is used for.
-
-Variable names can be arbitrarily long. They can contain both letters and numbers, but they have to begin with a letter. It is legal to use uppercase letters, but it is a good idea to begin variable names with a lowercase letter (you’ll see why later).
-
-The underscore character, `_`, can appear in a name. It is often used in names with multiple words, such as `my_name` or `airspeed_of_unladen_swallow`.
-
-If you give a variable an illegal name, you get a syntax error:
+What about values like '17' and '3.2'? They look like numbers, but they are in quotation marks like strings.
 
 ```python
->>> 76trombones = 'big parade'
-SyntaxError: invalid syntax
->>> more@ = 1000000
-SyntaxError: invalid syntax
->>> class = 'Advanced Theoretical Zymurgy'
-SyntaxError: invalid syntax
+>>> type('17')
+<type 'str'="">
+>>> type('3.2')
+<type 'str'="">
 ```
 
-`76trombones` is illegal because it does not begin with a letter. more@ is illegal because it contains an illegal character, `@`. But what’s wrong with class?
-
-It turns out that class is one of Python’s keywords. The interpreter uses keywords to recognize the structure of the program, and they cannot be used as variable names.
-
-Python 2 has 31 keywords:
+They’re strings. When you type a large integer, you might be tempted to use commas between groups of three digits, as in 1,000,000. This is not a legal integer in Python, but it is legal:
 
 ```python
-and       del       from      not       while
-as        elif      global    or        with
-assert    else      if        pass      yield
-break     except    import    print     nonlocal
-class     exec      in        raise
-continue  finally   is        return
-def       for       lambda    try
+>>> 1,000,000
+(1, 0, 0)
 ```
 
-In Python 3, exec is no longer a keyword, but nonlocal is. You might want to keep this list handy. If the interpreter complains about one of your variable names and you don’t know why, see if it is on this list.pyt
+Well, that’s not what we expected at all! Python interprets 1,000,000 as a comma-separated sequence of integers. This is the first example we have seen of a semantic error: the code runs without producing an error message, but it doesn’t do the “right” thing.
+
+## Operators and Operands
+
+Operators are special symbols that represent computations like addition and multiplication. The values the operator is applied to are called operands.
+
+The operators +, -, _, /, // and_ \* perform addition, subtraction, multiplication, true division, floor division, and exponentiation, as in the following examples:
+
+```python
+20+32   hour-1   hour*60+minute   minute/60   minute//60   5**2   (5+9)*(15-7)
+```
+
+Python 3 has two division operators. The `/` operator, also known as _true division_, will always produce a floating point answer. The `//` operator, also known as _floor division_, will round the quotient down to the nearest integer:
+
+```python
+minute=170
+>>> minute / 60
+2.8333333333333335
+>>> minute // 60
+2
+```
+
+## Expressions and Statements
+
+An expression is a combination of values, variables, and operators. A value all by itself is considered an expression, and so is a variable, so the following are all legal expressions (assuming that the variable x has been assigned a value):
+
+```python
+17
+x
+x + 17
+```
+
+A statement is a unit of code that the Python interpreter can execute. We have seen two kinds of statement: print and assignment. Technically an expression is also a statement, but it is probably simpler to think of them as different things. The important difference is that an expression has a value; a statement does not.

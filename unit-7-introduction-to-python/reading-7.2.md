@@ -10,26 +10,26 @@ If you are not sure what type a value has, the interpreter can tell you.
 
 ```python
 >>> type('Hello, World!')
-<type 'str'="">
+<class 'str'>
 
 >>> type(17)
-<type 'int'="">
+<class 'int'>
 ```
 
 Not surprisingly, strings belong to the type `str` and integers belong to the type `int`. Less obviously, numbers with a decimal point belong to a type called `float`, because these numbers are represented in a format called floating-point.
 
 ```python
 >>> type(3.2)
-<type 'float'="">
+<class 'float'>
 ```
 
 What about values like '17' and '3.2'? They look like numbers, but they are in quotation marks like strings.
 
 ```python
 >>> type('17')
-<type 'str'="">
+<class 'str'>
 >>> type('3.2')
-<type 'str'="">
+<class 'str'>
 ```
 
 They’re strings.

@@ -1,4 +1,4 @@
-# Reading 7.2
+# Reading 7.3
 
 ## Variables
 
@@ -20,11 +20,11 @@ The type of a variable is the type of the value it refers to.
 
 ```python
 >>> type(message)
-<type 'str'="">
+<class 'str'>
 >>> type(n)
-<type 'int'="">
+<class 'int'>
 >>> type(pi)
-<type 'float'="">
+<class 'float'>
 ```
 
 ## Variable names and keywords

@@ -37,6 +37,7 @@
   * [(Optional) Lab 5.3 - Fewer Balls](unit-5-cloning/optional-lab-5.3-fewer-balls.md)
 * [Unit 7: Introduction to Python](unit-7-introduction-to-python/README.md)
   * [Reading 7.2](unit-7-introduction-to-python/reading-7.2.md)
+  * [Lab 7.3 - Printing Variables](unit-7-introduction-to-python/lab-7.3-printing-variables.md)
   * [Reading 7.3](unit-7-introduction-to-python/reading-7.3.md)
   * [Reading 7.4](unit-7-introduction-to-python/reading-7.4.md)
 * [Unit 8: Data Types and Conditionals](unit-8-data-types-and-conditionals.md)

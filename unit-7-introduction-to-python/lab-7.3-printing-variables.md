@@ -2,15 +2,15 @@
 
 ### Part 1 - Printing Practice
 
-Practice typing out some statements in the editor part of the IDE, then hit "Run" at the top of the screen:
+Practice typing out some statements in the editor part of the IDE, then hit "Run" at the top of the screen. Record the output for each line in the Google Form.
 
-| Expression                                                        | Expected Output | Did anything unexpected happen? |
-| ----------------------------------------------------------------- | --------------- | ------------------------------- |
-| `print("1")`                                                      |                 |                                 |
-| `print(1)`                                                        |                 |                                 |
-| `print(1 + 2)`                                                    |                 |                                 |
-| `print("1" + "2")`                                                |                 |                                 |
-| `print("this" + " " + "is" + " " + "a" + " " + "sentence" + ".")` |                 |                                 |
+| Expression                                                        | Output | Did anything unexpected happen? |
+| ----------------------------------------------------------------- | ------ | ------------------------------- |
+| `print("1")`                                                      |        |                                 |
+| `print(1)`                                                        |        |                                 |
+| `print(1 + 2)`                                                    |        |                                 |
+| `print("1" + "2")`                                                |        |                                 |
+| `print("this" + " " + "is" + " " + "a" + " " + "sentence" + ".")` |        |                                 |
 
 #### SNAP Flashback - Print Comparison
 
@@ -29,7 +29,7 @@ animal = "dogs"
 print(animal + " are really cool.")
 ```
 
-#### 1b. In Your Notebook
+#### 1b. In the Goolge Form
 
 \*\* Respond to the following questions \*\*
 
@@ -44,7 +44,7 @@ print(animal + " are really cool.")
 print(dogs + "are cool.")
 ```
 
-#### 2b. Continue in Your Notebook
+#### 2b. Continue in the Google Form
 
 \*\* Respond to the following questions \*\*
 

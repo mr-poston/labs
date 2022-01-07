@@ -11,6 +11,8 @@ Practice typing out some statements in the editor part of the IDE, then hit "Run
 | `print(1 + 2)`                                                    |        |                                 |
 | `print("1" + "2")`                                                |        |                                 |
 | `print("this" + " " + "is" + " " + "a" + " " + "sentence" + ".")` |        |                                 |
+| `print("this" + "is" + "a" + "sentence" + ".")`                   |        |                                 |
+| `print("this", "is", "a", "sentence", ".")`                       |        |                                 |
 
 #### SNAP Flashback - Print Comparison
 

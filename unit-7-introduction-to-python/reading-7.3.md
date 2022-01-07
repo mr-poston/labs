@@ -50,16 +50,40 @@ SyntaxError: invalid syntax
 
 It turns out that class is one of Python’s keywords. The interpreter uses keywords to recognize the structure of the program, and they cannot be used as variable names.
 
-Python 2 has 31 keywords:
+Python 3 keywords:
 
 ```python
-and       del       from      not       while
-as        elif      global    or        with
-assert    else      if        pass      yield
-break     except    import    print     nonlocal
-class     exec      in        raise
-continue  finally   is        return
-def       for       lambda    try
+False
+None
+True
+and
+as
+assert
+break
+class
+continue
+def
+del
+elif
+else
+except
+finally
+for
+from
+global
+if
+import
+in
+is
+lambda
+nonlocal
+not
+or
+pass
+raise
+return
+try
+while
+with
+yield
 ```
-
-In Python 3, exec is no longer a keyword, but nonlocal is. You might want to keep this list handy. If the interpreter complains about one of your variable names and you don’t know why, see if it is on this list.pyt

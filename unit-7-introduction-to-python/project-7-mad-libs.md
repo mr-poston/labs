@@ -44,7 +44,7 @@ Mad Libs are a fun way to tell a story. The story is pre-written except for a fe
 
 #### Implementation Details
 
-Plan out your story on pencil and paper first, before you start implementing the program.
+_**Plan out your story on pencil and paper first, before you start implementing the program.**_
 
 1. Create your story
 2. Select the missing words
@@ -57,4 +57,7 @@ As mentioned above the program must request words from the user. The following *
 
 * 10 different words inputted
 * Variable names should correspond to the part of speech requested and part of the story they belong to (e.g. `first_noun`, `second_verb`, etc.)
-* You may only use 3 print statements to tell your story
+* Variable names should follow Python naming conventions:
+  * use all lowercase letters
+  * if the variable name is more than one word, use an underscore \_ to separate words. _Remember, variable names cannot contain spaces!_
+* Comments should be used to aid in code readability.

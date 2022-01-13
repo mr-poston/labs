@@ -40,6 +40,7 @@
   * [Lab 7.3 - Printing Variables](unit-7-introduction-to-python/lab-7.3-printing-variables.md)
   * [Reading 7.3](unit-7-introduction-to-python/reading-7.3.md)
   * [Reading 7.4](unit-7-introduction-to-python/reading-7.4.md)
+  * [Project 7 - Mad Libs](unit-7-introduction-to-python/project-7-mad-libs.md)
 * [Unit 8: Data Types and Conditionals](unit-8-data-types-and-conditionals.md)
 * [Unit 9: Functions](unit-9-functions.md)
 * [Unit 10: Nested Loops and Lists](unit-10-nested-loops-and-lists.md)

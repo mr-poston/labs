@@ -46,6 +46,7 @@
   * [Lab 8.2a - Can I or Can't I](unit-8-data-types-and-conditionals/lab-8.2a-can-i-or-cant-i.md)
   * [Lab 8.2b - Can I or Can't I](unit-8-data-types-and-conditionals/lab-8.2b-can-i-or-cant-i.md)
   * [Lab 8.2c - Can I or Can't I](unit-8-data-types-and-conditionals/lab-8.2c-can-i-or-cant-i.md)
+  * [Lab 8.3](unit-8-data-types-and-conditionals/lab-8.3.md)
 * [Unit 9: Functions](unit-9-functions.md)
 * [Unit 10: Nested Loops and Lists](unit-10-nested-loops-and-lists.md)
 * [Unit 11: Dictionaries](unit-11-dictionaries.md)

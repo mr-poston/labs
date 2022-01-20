@@ -1,4 +1,4 @@
-# Lab 8.3
+# Lab 8.3 - Triangle Program
 
 ## Part 1
 
@@ -18,6 +18,11 @@ else:
     else:
         print("[You are thrown off the bridge]")
 ```
+
+What would the output be if...
+
+1. ... the user inputs `idk`?
+2. ... the user inputs `to seek the Holy Grail`, then inputs `Huh`?
 
 ### Example 2
 
@@ -42,3 +47,26 @@ elif user_input == 'pink':
 else:
     print("I don't recognize that color. Is it even...??")
 ```
+
+What would the output be if...
+
+1. ... the user inputs `green`?
+2. ... the user inputs `Red`?
+
+## Part 2
+
+In the editor (main.py), translate this Snap! program into a Python program!
+
+![](../.gitbook/assets/triangle\_program.png)
+
+#### Recreate the Triangle Program
+
+* The program will ask for the lengths of all three sides of a triangle.
+* The program will display what kind of triangle it is - or if it is even a triangle at all.
+* The program will find the perimeter of the triangle.
+
+## Bonus
+
+Research lists in Python.
+
+Re-implement Example 2 above using lists.

@@ -50,6 +50,7 @@
   * [Lab 8.2c - Can I or Can't I](unit-8-data-types-and-conditionals/lab-8.2c-can-i-or-cant-i.md)
   * [Reading 8.3](unit-8-data-types-and-conditionals/reading-8.3.md)
   * [Lab 8.3 - Triangle Program](unit-8-data-types-and-conditionals/lab-8.3-triangle-program.md)
+  * [Project 8 - Text Monster Game](unit-8-data-types-and-conditionals/project-8-text-monster-game.md)
 * [Unit 9: Functions](unit-9-functions.md)
 * [Unit 10: Nested Loops and Lists](unit-10-nested-loops-and-lists.md)
 * [Unit 11: Dictionaries](unit-11-dictionaries.md)
